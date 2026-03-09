@@ -1,0 +1,501 @@
+movie_id,title,movie_type,genre,mood,language,year,runtime,rating,popularity,poster_url
+1,Undine,Movie,Fantasy,Magical,German,2020,90,6.6,79,https://image.tmdb.org/t/p/w500/2owj76gwbqyee0in92q2zno8tdu.jpg
+2,Gone Girl,Movie,Thriller,Suspense,English,2014,149,8.1,85,https://image.tmdb.org/t/p/w500/zkhql0q3om84bu8z0cpcijjacop.jpg
+3,Nausicaa of the Valley of the Wind,Animation,Animation,Happy,Japanese,1984,117,8.0,78,https://image.tmdb.org/t/p/w500/pmeb154niyoa8atu7lcfjhtl9m7.jpg
+4,Knives Out,Movie,Mystery,Intriguing,English,2019,130,7.9,87,https://image.tmdb.org/t/p/w500/vmrzf1wulk4e7tilqrgr0gq33ln.jpg
+5,Biutiful,Movie,Drama,Emotional,Spanish,2010,148,7.5,98,https://image.tmdb.org/t/p/w500/y6wzd40pukpgfha6643eaobej3w.jpg
+6,Catch Me If You Can,Movie,Biography,Inspiring,English,2002,141,8.1,80,https://image.tmdb.org/t/p/w500/a4kp177jhdork09g825kevb8a7k.jpg
+7,Hard Boiled,Movie,Action,Intense,Cantonese,1992,128,7.7,73,https://image.tmdb.org/t/p/w500/pz5ywmjryegk5v4hxre9x2538xp.jpg
+8,Harakiri,Movie,Action,Intense,Japanese,1962,133,8.6,97,https://image.tmdb.org/t/p/w500/4hs2iv9v1ig6kqtolgvql9i5xvt.jpg
+9,Kill Bill: Vol. 1,Movie,Action,Intense,English,2003,111,8.2,89,https://image.tmdb.org/t/p/w500/vcig7axyno9mz58vwifwwibuj21.jpg
+10,L'Avventura,Movie,Drama,Emotional,Italian,1960,143,7.8,99,https://image.tmdb.org/t/p/w500/jf0xjpfhluxcu9tovlpwoi31xx9.jpg
+11,Fight Club,Movie,Drama,Emotional,English,1999,139,8.8,89,https://image.tmdb.org/t/p/w500/914tkz43qtk3yp7gvl9u8bk5cv5.jpg
+12,Raging Bull,Movie,Biography,Inspiring,English,1980,129,8.2,72,https://image.tmdb.org/t/p/w500/mxo6eohhnewo7aulwr6qoy6sqyp.jpg
+13,Diabolique,Movie,Horror,Scary,French,1955,117,8.1,72,https://image.tmdb.org/t/p/w500/w1z5lc24vbu869io4sjy3e7rss9.jpg
+14,The Sixth Sense,Movie,Mystery,Intriguing,English,1999,107,8.2,86,https://image.tmdb.org/t/p/w500/j4r1dusvbk9jzjq02a5dsk7gdrn.jpg
+15,The Aviator,Movie,Biography,Inspiring,English,2004,170,7.5,84,https://image.tmdb.org/t/p/w500/tdd4r0mwzlg8t98l5q7r0vpr9z7.jpg
+16,Dilwale Dulhania Le Jayenge,Movie,Romance,Romantic,Hindi,1995,181,8.0,69,https://image.tmdb.org/t/p/w500/z4c3gvxy25sowvjl7rv1bg640qh.jpg
+17,Toni Erdmann,Movie,Comedy,Happy,German,2016,162,7.3,99,https://image.tmdb.org/t/p/w500/8faxegbrcsrzi8xcga3xyb2i4j4.jpg
+18,Jai Bhim,Movie,Drama,Emotional,Tamil,2021,164,8.9,91,https://image.tmdb.org/t/p/w500/xbrzipl3v0lm8etu8lsp7u1dl3o.jpg
+19,Viridiana,Movie,Drama,Emotional,Spanish,1961,90,8.1,83,https://image.tmdb.org/t/p/w500/4h85no0d6f5t3yi7enhx6kokjje.jpg
+20,The Lord of the Rings: Two Towers,Movie,Fantasy,Magical,English,2002,179,8.8,76,https://image.tmdb.org/t/p/w500/inpgif4y5a7dbzpm01krigalrlt.jpg
+21,The Grandmaster,Movie,Action,Intense,Cantonese,2013,123,6.5,72,https://image.tmdb.org/t/p/w500/bo78eaccorjbv5zwoxjbpknvvk3.jpg
+22,Sanjuro,Movie,Action,Intense,Japanese,1962,96,8.0,74,https://image.tmdb.org/t/p/w500/dxkdd2eyc3pzt384diqbyy928u3.jpg
+23,Rocco and His Brothers,Movie,Crime,Gritty,Italian,1960,177,8.2,87,https://image.tmdb.org/t/p/w500/iqhs2ed1q5fwev8ciizfsb3uvkq.jpg
+24,Extraction 2,Movie,Action,Intense,English,2023,122,7.0,72,https://image.tmdb.org/t/p/w500/9if2gahyw4eow3it8w1rh5ww74h.jpg
+25,The Bridge on the River Kwai,Movie,War,Epic,English,1957,161,8.1,65,https://image.tmdb.org/t/p/w500/5o70nv3ow1om36igkml9591ifd8.jpg
+26,The Dark Knight,Movie,Action,Intense,English,2008,152,9.0,67,https://image.tmdb.org/t/p/w500/lbhkp6ok84qoe9hgavmtnr3cgv1.jpg
+27,Howl's Moving Castle,Animation,Animation,Happy,Japanese,2004,119,8.2,69,https://image.tmdb.org/t/p/w500/76h38yfzkfo133x6n0w6vv97zks.jpg
+28,When Marnie Was There,Animation,Animation,Happy,Japanese,2014,103,7.7,89,https://image.tmdb.org/t/p/w500/nn4e7otna8v3xc9m16of2qvxfg0.jpg
+29,Seven,Movie,Crime,Gritty,English,1995,127,8.6,66,https://image.tmdb.org/t/p/w500/iepfxe8nk0mzhoe7s67wu50cx0f.jpg
+30,Whisper of the Heart,Animation,Animation,Happy,Japanese,1995,111,7.9,94,https://image.tmdb.org/t/p/w500/naf9nhl4r6ko7vezmm5uxygfmky.jpg
+31,Thani Oruvan,Movie,Action,Intense,Tamil,2015,160,8.4,66,https://image.tmdb.org/t/p/w500/75j5v4x4dg25a34towmyb5ckxub.jpg
+32,Triumph of the Will,Movie,Documentary,Exciting,German,1935,114,7.2,96,https://image.tmdb.org/t/p/w500/83179me8kzxcounkwcckvugbfum.jpg
+33,Scenes from a Marriage,Movie,Drama,Emotional,Swedish,1973,169,8.3,80,https://image.tmdb.org/t/p/w500/5skmimx2g67qsk8np8k17g1251y.jpg
+34,The Northman,Movie,Action,Intense,English,2022,137,7.0,88,https://image.tmdb.org/t/p/w500/c4cnpzfc287fcdphx186znlmz8p.jpg
+35,Drishyam,Movie,Thriller,Suspense,Hindi,2015,163,8.2,96,https://image.tmdb.org/t/p/w500/7ebmdfxj9mn1zjj9pfwyfsi9lya.jpg
+36,The Piano Teacher,Movie,Drama,Emotional,French,2001,131,7.5,84,https://image.tmdb.org/t/p/w500/6xbw1hf5fvic0p0xdp5bnb0osez.jpg
+37,Everything Everywhere All At Once,Movie,Sci-Fi,Exciting,English,2022,139,7.8,86,https://image.tmdb.org/t/p/w500/e3zkgp7ztgcga8sjh950y7fb4kr.jpg
+38,The Batman,Movie,Action,Intense,English,2022,176,7.8,75,https://image.tmdb.org/t/p/w500/q2zdc4l2zj85w1d99ny7h0s5yso.jpg
+39,Au Hasard Balthazar,Movie,Drama,Emotional,French,1966,95,7.8,97,https://image.tmdb.org/t/p/w500/xr39016jrvpyhnqri4iz2qffuqq.jpg
+40,Mother!,Movie,Horror,Scary,English,2017,121,6.6,90,https://image.tmdb.org/t/p/w500/mq0ly6k4ail9rmp9o6lo7i0tzti.jpg
+41,Aayutha Ezhuthu,Movie,Action,Intense,Tamil,2004,161,8.0,72,https://image.tmdb.org/t/p/w500/bmo759xdjjxdergt6s5wdqm2ucn.jpg
+42,The Boy and the Heron,Animation,Animation,Happy,Japanese,2023,124,7.6,75,https://image.tmdb.org/t/p/w500/8o5tl15fttg6f5gthxkf3d8uynk.jpg
+43,The Wild Child,Movie,Drama,Emotional,French,1970,83,7.5,70,https://image.tmdb.org/t/p/w500/peytk5ar5zucmk8xvubc1f57sf9.jpg
+44,Spiderman: No Way Home,Movie,Action,Intense,English,2021,148,8.2,74,https://image.tmdb.org/t/p/w500/cc5hejlu00wu0np9paat3aeioi9.jpg
+45,Shutter Island,Movie,Mystery,Intriguing,English,2010,138,8.2,69,https://image.tmdb.org/t/p/w500/sw3w6zy09uy8km3em35x3htj8me.jpg
+46,Saving Private Ryan,Movie,War,Epic,English,1998,169,8.6,85,https://image.tmdb.org/t/p/w500/dwu77xsxt2t2dqfm6d2qj6hyedg.jpg
+47,Ponniyin Selvan: II,Movie,Action,Intense,Tamil,2023,164,7.3,97,https://image.tmdb.org/t/p/w500/0pc3tbz4k70z0f4ltoz8mkw3wvv.jpg
+48,Belle de Jour,Movie,Drama,Emotional,French,1967,100,7.6,70,https://image.tmdb.org/t/p/w500/82pm3ue1unbukesjx3m1p2hz1g1.jpg
+49,Black Panther,Movie,Action,Intense,English,2018,134,7.3,99,https://image.tmdb.org/t/p/w500/d1yc6rno5gvm1ext1kqi4mvodou.jpg
+50,Joker,Movie,Crime,Gritty,English,2019,122,8.4,98,https://image.tmdb.org/t/p/w500/plwr9fjm9mpxcye0ikz76mzmffo.jpg
+51,Playtime,Movie,Comedy,Happy,French,1967,124,7.8,97,https://image.tmdb.org/t/p/w500/hvi77ly520s0t6gsl29uik9zlpw.jpg
+52,Chungking Express,Movie,Comedy,Happy,Cantonese,1994,102,8.0,82,https://image.tmdb.org/t/p/w500/q3d3bmwknvyjp327y0u0a6my1p1.jpg
+53,2001: A Space Odyssey,Movie,Sci-Fi,Exciting,English,1968,149,8.3,78,https://image.tmdb.org/t/p/w500/s1um1zxup7bmvxgf9yqki11vq8k.jpg
+54,Goodfellas,Movie,Crime,Gritty,English,1990,145,8.7,96,https://image.tmdb.org/t/p/w500/wpo60t8cnvgx44t2cxed21zx9ae.jpg
+55,Rang De Basanti,Movie,Drama,Emotional,Hindi,2006,167,8.1,91,https://image.tmdb.org/t/p/w500/jr969xdzumoxaf9vfnsooz6yzui.jpg
+56,Stalker,Movie,Sci-Fi,Exciting,Russian,1979,162,8.1,68,https://image.tmdb.org/t/p/w500/dbe6mzrviqbvdffg140wn595wpi.jpg
+57,Thalapathi,Movie,Action,Intense,Tamil,1991,157,8.5,78,https://image.tmdb.org/t/p/w500/u7x6c0ikd697776aupj026f5bqv.jpg
+58,Blow-Up,Movie,Mystery,Intriguing,English,1966,111,7.7,65,https://image.tmdb.org/t/p/w500/bz3csb914599dmo1m411cp2afdy.jpg
+59,Ghilli,Movie,Action,Intense,Tamil,2004,160,8.1,69,https://image.tmdb.org/t/p/w500/8i22n3d9k9ms2s1qdd7ga6lhfwv.jpg
+60,Iruvar,Movie,Drama,Emotional,Tamil,1997,165,8.4,73,https://image.tmdb.org/t/p/w500/kdldntuqhot253vk2yfwzl0i25s.jpg
+61,Speed,Movie,Action,Intense,English,1994,116,7.3,84,https://image.tmdb.org/t/p/w500/w40cll3yylo9tcrf1wkw1b0pbxx.jpg
+62,A Better Tomorrow,Movie,Action,Intense,Cantonese,1986,95,7.4,78,https://image.tmdb.org/t/p/w500/pn3wuvgd7rwh1amou69195ivaco.jpg
+63,A Beautiful Mind,Movie,Biography,Inspiring,English,2001,135,8.2,70,https://image.tmdb.org/t/p/w500/vwtlhz58agn6p4t5990ovvez6kn.jpg
+64,Lunchbox,Movie,Romance,Romantic,Hindi,2013,104,7.8,65,https://image.tmdb.org/t/p/w500/v7pt8175rxvk3ludbqktwwk7sup.jpg
+65,Top Gun: Maverick,Movie,Action,Intense,English,2022,130,8.3,75,https://image.tmdb.org/t/p/w500/yjq3ouubqb27dckt15qa04u7h4a.jpg
+66,Barbara,Movie,Drama,Emotional,German,2012,105,7.1,97,https://image.tmdb.org/t/p/w500/1r2o268v44sffkez69p4hvh8b5v.jpg
+67,Missing Link,Animation,Animation,Happy,English,2019,95,6.7,89,https://image.tmdb.org/t/p/w500/j9ilxqag6z0ne7acldj5efu32rx.jpg
+68,Mother,Movie,Crime,Gritty,Korean,2009,129,7.8,76,https://image.tmdb.org/t/p/w500/tu7tb2jjpkv8lgghl649jqhoita.jpg
+69,Black Swan,Movie,Drama,Emotional,English,2010,108,8.0,97,https://image.tmdb.org/t/p/w500/p1b3jin8tutyz8y369zuj69i5rm.jpg
+70,A Fantastic Woman,Movie,Drama,Emotional,Spanish,2017,104,7.2,74,https://image.tmdb.org/t/p/w500/2n2ofj8othnhhint7oipiob1unm.jpg
+71,The Pianist,Movie,Biography,Inspiring,English,2002,150,8.5,81,https://image.tmdb.org/t/p/w500/1wzwrr6pvmdlflytkqzgj1mm346.jpg
+72,Mother India,Movie,Drama,Emotional,Hindi,1957,172,7.8,70,https://image.tmdb.org/t/p/w500/ph7grwcif6cwm3ql2mew9r1ctig.jpg
+73,Guardians of the Galaxy,Movie,Action,Intense,English,2014,121,8.0,95,https://image.tmdb.org/t/p/w500/ci0dz61br2n90ipbpk7oeqlsncp.jpg
+74,"The Good, the Bad and the Ugly",Movie,Western,Gritty,Italian,1966,178,8.8,91,https://image.tmdb.org/t/p/w500/sdjk1vbwz6vs47txbyj8ucj02qe.jpg
+75,"Monsters, Inc.",Animation,Animation,Happy,English,2001,92,8.1,74,https://image.tmdb.org/t/p/w500/vg8k9rmfks5ucvmmhw5avoduv7r.jpg
+76,A Clockwork Orange,Movie,Crime,Gritty,English,1971,136,8.3,72,https://image.tmdb.org/t/p/w500/bjmyhnm2hsi462n6i2yz9i4z0to.jpg
+77,Wall-E,Animation,Animation,Happy,English,2008,98,8.4,68,https://image.tmdb.org/t/p/w500/mjrv09bg4uiw4j4nskhqr9vy9sc.jpg
+78,Indiana Jones: Last Crusade,Movie,Adventure,Exciting,English,1989,127,8.2,72,https://image.tmdb.org/t/p/w500/lspymjrih7bny7s4nnlz389jj72.jpg
+79,A Bittersweet Life,Movie,Action,Intense,Korean,2005,120,7.5,68,https://image.tmdb.org/t/p/w500/34ow0wwfu3h21bl07k4xhamwudc.jpg
+80,Apocalypse Now,Movie,War,Epic,English,1979,147,8.4,98,https://image.tmdb.org/t/p/w500/hcv7hmazbdcv8f7fs7wibrthze5.jpg
+81,Women on the Verge of a Nervous Breakdown,Movie,Comedy,Happy,Spanish,1988,88,7.5,65,https://image.tmdb.org/t/p/w500/jvwvj6pgne9lbjq0piq8egrlpgn.jpg
+82,Spider-Man: Into the Spider-Verse,Animation,Animation,Happy,English,2018,117,8.4,95,https://image.tmdb.org/t/p/w500/fb1akm1dtd8xowwwhmwosvag4dq.jpg
+83,The Big Lebowski,Movie,Comedy,Happy,English,1998,117,8.1,95,https://image.tmdb.org/t/p/w500/zyd57574w3p2nmxfoyda9g2xhqz.jpg
+84,American Beauty,Movie,Drama,Emotional,English,1999,122,8.3,83,https://image.tmdb.org/t/p/w500/uku8bb92iow838iv0kd5aqgjljg.jpg
+85,The Shawshank Redemption,Movie,Drama,Emotional,English,1994,142,9.3,89,https://image.tmdb.org/t/p/w500/4tze8x7yf3c8gvs9yvrbek7hsrr.jpg
+86,The Silence of the Lambs,Movie,Thriller,Suspense,English,1991,118,8.6,73,https://image.tmdb.org/t/p/w500/5gflhylt3whjslmjkfumvbhccmz.jpg
+87,Get Out,Movie,Horror,Scary,English,2017,104,7.8,82,https://image.tmdb.org/t/p/w500/ymdfkyj0w7fjparcr62doqda38f.jpg
+88,The Shining,Movie,Horror,Scary,English,1980,146,8.4,84,https://image.tmdb.org/t/p/w500/dk3il7kjasvqp60aouz4tc6c10x.jpg
+89,Only Yesterday,Animation,Animation,Happy,Japanese,1991,118,7.6,82,https://image.tmdb.org/t/p/w500/p59vvnls1rhqrpiyxrx5n3ygpbp.jpg
+90,The Martian,Movie,Sci-Fi,Exciting,English,2015,144,8.0,72,https://image.tmdb.org/t/p/w500/onu89rqoi60mg9wnc0ikf2x99r3.jpg
+91,How to Train Your Dragon,Animation,Animation,Happy,English,2010,98,8.1,75,https://image.tmdb.org/t/p/w500/yae1msy3on5zpmcrvflwtew4e0h.jpg
+92,Metropolis,Movie,Sci-Fi,Exciting,German,1927,153,8.3,94,https://image.tmdb.org/t/p/w500/q7ae4ztvex2sedvphzznaowjt7c.jpg
+93,Rear Window,Movie,Mystery,Intriguing,English,1954,112,8.5,80,https://image.tmdb.org/t/p/w500/pjqyfb0gujzst3xlnf6g71eu1hk.jpg
+94,Mission Impossible: Fallout,Movie,Action,Intense,English,2018,147,7.7,71,https://image.tmdb.org/t/p/w500/3t46cb6hze96ttgj68735n5jiw4.jpg
+95,The Lion King,Animation,Animation,Happy,English,1994,88,8.5,100,https://image.tmdb.org/t/p/w500/bjnr68f011g4j6hogymurty2dlq.jpg
+96,The Sound of Music,Movie,Drama,Emotional,English,1965,172,8.1,67,https://image.tmdb.org/t/p/w500/7g79fgxmo5md006nt333uwphe51.jpg
+97,1900,Movie,History,Thoughtful,Italian,1976,317,7.7,73,https://image.tmdb.org/t/p/w500/wrb8lnkv80jdahnhfcvker3fzcp.jpg
+98,The Prestige,Movie,Drama,Emotional,English,2006,130,8.5,77,https://image.tmdb.org/t/p/w500/1rdce3riu7blttt54i1it9bwp2s.jpg
+99,Hercules,Animation,Animation,Happy,English,1997,93,7.3,82,https://image.tmdb.org/t/p/w500/41baiih6sykevl3jraxvf5fibs6.jpg
+100,Blade Runner,Movie,Sci-Fi,Exciting,English,1982,117,8.1,70,https://image.tmdb.org/t/p/w500/dof1hkw13xdfb8hx4i1ymozp8th.jpg
+101,The Last Laugh,Movie,Drama,Emotional,German,1924,101,8.1,67,https://image.tmdb.org/t/p/w500/qrtfnse03q9lhu2phuy9zepyamv.jpg
+102,Neon Genesis Evangelion: End of Evangelion,Animation,Animation,Happy,Japanese,1997,87,8.0,88,https://image.tmdb.org/t/p/w500/faaf4m9cd0d69y81wr6lqc8t3bc.jpg
+103,Barbie,Movie,Comedy,Happy,English,2023,114,6.9,97,https://image.tmdb.org/t/p/w500/chmhlihpokugbiobmb2zq6o8xhd.jpg
+104,Oldboy,Movie,Action,Intense,Korean,2003,120,8.4,87,https://image.tmdb.org/t/p/w500/1gdxna8h806hss1zmt23k75z6qk.jpg
+105,Beauty and the Beast,Animation,Animation,Happy,English,1991,84,8.0,89,https://image.tmdb.org/t/p/w500/unxbeqd4m0jy1eisoc0tj3ebrs1.jpg
+106,The Hunt,Movie,Drama,Emotional,Danish,2012,115,8.3,74,https://image.tmdb.org/t/p/w500/fgscdwfokaoa5tqn3980cbuhal7.jpg
+107,Kung Fu Panda,Animation,Animation,Happy,English,2008,92,7.6,89,https://image.tmdb.org/t/p/w500/zn3i6xanukev9loele23o5wuu21.jpg
+108,Rec,Movie,Horror,Scary,Spanish,2007,78,7.4,93,https://image.tmdb.org/t/p/w500/qwdvcf1ag67xn6aumznair4jlkp.jpg
+109,Sacrifice,Movie,Drama,Emotional,Swedish,1986,149,8.0,69,https://image.tmdb.org/t/p/w500/bk09ul7h6lsi35y6h554cjdop90.jpg
+110,Doctor Strange,Movie,Action,Intense,English,2016,115,7.5,97,https://image.tmdb.org/t/p/w500/cszxsjy3x2u5rr3ok4rsahmfwfx.jpg
+111,Castle in the Sky,Animation,Animation,Happy,Japanese,1986,124,8.0,79,https://image.tmdb.org/t/p/w500/hh3lckoxzx8zthdsscvwa29baru.jpg
+112,Volver,Movie,Comedy,Happy,Spanish,2006,121,7.6,80,https://image.tmdb.org/t/p/w500/irq1hihr9tl68g2cmzafr03n6hk.jpg
+113,Guillermo del Toro's Pinocchio,Animation,Animation,Happy,English,2022,117,7.6,75,https://image.tmdb.org/t/p/w500/r0wyt0g4mh4wrw1v65pheie5iwh.jpg
+114,2.0,Movie,Sci-Fi,Exciting,Tamil,2018,148,6.1,69,https://image.tmdb.org/t/p/w500/c1813oavm2yrdlrxqfryunzrpuf.jpg
+115,Jaws,Movie,Thriller,Suspense,English,1975,124,8.1,72,https://image.tmdb.org/t/p/w500/v0q0i39wxvts7er6keyvr3wasc7.jpg
+116,Victoria,Movie,Crime,Gritty,German,2015,138,7.6,99,https://image.tmdb.org/t/p/w500/xpixr2m1h3m5tasn8llx67c81rs.jpg
+117,Talk to Her,Movie,Drama,Emotional,Spanish,2002,112,7.9,90,https://image.tmdb.org/t/p/w500/d8rvpcf83ubkzeiu4e8bqrm4h8j.jpg
+118,Mundaun,Movie,Horror,Scary,German,2021,100,7.5,86,https://image.tmdb.org/t/p/w500/r8yrgu8098dohvrhytkxws3i6pw.jpg
+119,The Secret of Kells,Animation,Animation,Happy,English,2009,75,7.5,69,https://image.tmdb.org/t/p/w500/9x8jotqn20a3h51zwlfov5f75hp.jpg
+120,High and Low,Movie,Crime,Gritty,Japanese,1963,143,8.4,99,https://image.tmdb.org/t/p/w500/xhbtwhc81moe3mhxeku8lijwo2e.jpg
+121,Iron Man,Movie,Action,Intense,English,2008,126,7.9,94,https://image.tmdb.org/t/p/w500/peogmqi1xcvjppvt8jg6jvjgkkc.jpg
+122,La Strada,Movie,Drama,Emotional,Italian,1954,108,8.0,81,https://image.tmdb.org/t/p/w500/akucf3ipgpqufm7qj10d2idsf4v.jpg
+123,The Cabinet of Dr. Caligari,Movie,Horror,Scary,German,1920,76,8.0,99,https://image.tmdb.org/t/p/w500/axlpalih398ehoryjo1kq9964xo.jpg
+124,The Searchers,Movie,Western,Gritty,English,1956,119,7.9,82,https://image.tmdb.org/t/p/w500/31vt2w9f26gkn2zly88hydnxbv4.jpg
+125,Ponniyin Selvan: I,Movie,Action,Intense,Tamil,2022,167,7.6,92,https://image.tmdb.org/t/p/w500/2muxamdzkhq5b6tculef3q0ac4p.jpg
+126,Seven Samurai,Movie,Action,Intense,Japanese,1954,207,8.6,98,https://image.tmdb.org/t/p/w500/nn2xujrv4p5xwefbjg8uv6w9o89.jpg
+127,Gray Man,Movie,Action,Intense,English,2022,122,6.5,65,https://image.tmdb.org/t/p/w500/w45x9xy0hzwa0hjp5qplk0fa53m.jpg
+128,Throne of Blood,Movie,Drama,Emotional,Japanese,1957,110,8.1,68,https://image.tmdb.org/t/p/w500/vka5ukv6sb754hwydtscy1acm75.jpg
+129,Jigarthanda,Movie,Crime,Gritty,Tamil,2014,171,8.2,89,https://image.tmdb.org/t/p/w500/8bnqbmoeuzswb9lder737moock9.jpg
+130,Yojimbo,Movie,Action,Intense,Japanese,1961,110,8.2,70,https://image.tmdb.org/t/p/w500/3jcnh6xap0w452f6wv2lp6zfiiq.jpg
+131,Unbreakable,Movie,Sci-Fi,Exciting,English,2000,106,7.3,72,https://image.tmdb.org/t/p/w500/xrr1ao8fq4nzn6n8prwxz4s75zy.jpg
+132,Suspiria,Movie,Horror,Scary,Italian,1977,98,7.3,67,https://image.tmdb.org/t/p/w500/jg4sqepgrvm1nrt1fid6zwqja1a.jpg
+133,Ikiru,Movie,Drama,Emotional,Japanese,1952,143,8.3,88,https://image.tmdb.org/t/p/w500/ccarxzkmyk9n6c5qfuzsuhg0xan.jpg
+134,Godzilla Minus One,Movie,Action,Intense,Japanese,2023,124,8.3,85,https://image.tmdb.org/t/p/w500/jooqjlkp2wjo3k94mpu1kas1182.jpg
+135,Twister,Movie,Action,Intense,English,1996,113,6.4,68,https://image.tmdb.org/t/p/w500/ocqnuvbo8ojmoaayvgzdhr14sb2.jpg
+136,Berlin Alexanderplatz,Movie,Drama,Emotional,German,1980,931,8.4,76,https://image.tmdb.org/t/p/w500/wb08rke7jxcavlclwubex5ugj7i.jpg
+137,High Noon,Movie,Western,Gritty,English,1952,85,7.9,92,https://image.tmdb.org/t/p/w500/rmwkcpjfa4cdyx17t570vrc064d.jpg
+138,Glass Onion,Movie,Mystery,Intriguing,English,2022,139,7.1,79,https://image.tmdb.org/t/p/w500/kmlj236aeygww47eb0sapjdkh2c.jpg
+139,The Discreet Charm of the Bourgeoisie,Movie,Comedy,Happy,French,1972,102,7.8,73,https://image.tmdb.org/t/p/w500/topbee73e720s467nwps2nbgn3f.jpg
+140,Back to the Future,Movie,Adventure,Exciting,English,1985,116,8.5,89,https://image.tmdb.org/t/p/w500/oe3if65ogpf51b0186p0fp6a48g.jpg
+141,Memories of Murder,Movie,Crime,Gritty,Korean,2003,131,8.1,77,https://image.tmdb.org/t/p/w500/g7ivwijm270n0arvp1hira67qyo.jpg
+142,The Lord of the Rings: Return of the King,Movie,Fantasy,Magical,English,2003,201,9.0,79,https://image.tmdb.org/t/p/w500/pkkv214t733me6lcm58tug7wtgd.jpg
+143,The Fugitive,Movie,Action,Intense,English,1993,130,7.8,65,https://image.tmdb.org/t/p/w500/ov79r4ht3i4ecqhley7v332dse1.jpg
+144,Wreck-It Ralph,Animation,Animation,Happy,English,2012,101,7.7,76,https://image.tmdb.org/t/p/w500/xn78gdnwzb1n83zfjw6wuzuc15r.jpg
+145,Faust,Movie,Fantasy,Magical,German,1926,116,8.1,100,https://image.tmdb.org/t/p/w500/5cvkj083w4nghhxc8189bkdjnap.jpg
+146,Fitzcarraldo,Movie,Adventure,Exciting,German,1982,158,8.0,81,https://image.tmdb.org/t/p/w500/ywjuq7bb0dqix41g0l62nbbxri0.jpg
+147,Downfall,Movie,Biography,Inspiring,German,2004,155,8.2,82,https://image.tmdb.org/t/p/w500/f31b8ha4u2uwwirjh5msarnzog1.jpg
+148,Inglourious Basterds,Movie,Adventure,Exciting,English,2009,153,8.3,88,https://image.tmdb.org/t/p/w500/4enc2kv18fkizplkh49yfwx7jur.jpg
+149,Iron Monkey,Movie,Action,Intense,Cantonese,1993,90,7.5,98,https://image.tmdb.org/t/p/w500/n67zq5bn4i4stgsof8572vw1y5c.jpg
+150,12 Angry Men,Movie,Drama,Emotional,English,1957,96,9.0,82,https://image.tmdb.org/t/p/w500/0eomw3ovdyqabfal2dsxmzts5jc.jpg
+151,I Lost My Body,Animation,Animation,Happy,French,2019,81,7.5,97,https://image.tmdb.org/t/p/w500/zjvi04vx9uisysueu5sx41xyurg.jpg
+152,The Skin I Live In,Movie,Thriller,Suspense,Spanish,2011,120,7.6,93,https://image.tmdb.org/t/p/w500/z1kwcu4b9ji2gwx83mowti8188h.jpg
+153,Mad Max 2: The Road Warrior,Movie,Action,Intense,English,1981,96,7.6,99,https://image.tmdb.org/t/p/w500/skz9womd044vpvvxr08b7gxxbg7.jpg
+154,The Great Beauty,Movie,Drama,Emotional,Italian,2013,141,7.7,65,https://image.tmdb.org/t/p/w500/fst262jlx0kvn93z5rfddewtqdv.jpg
+155,Vertigo,Movie,Mystery,Intriguing,English,1958,128,8.3,88,https://image.tmdb.org/t/p/w500/7htz0b37qcvz557iaabmx6ohw21.jpg
+156,Mandela,Movie,Comedy,Happy,Tamil,2021,140,8.4,72,https://image.tmdb.org/t/p/w500/303nbhlmihw21vssctab59dhop9.jpg
+157,Das Boot,Movie,War,Epic,German,1981,149,8.4,72,https://image.tmdb.org/t/p/w500/4bu43doj92v5beku3hw84g1smyu.jpg
+158,The Mirror,Movie,Drama,Emotional,Russian,1975,107,8.0,93,https://image.tmdb.org/t/p/w500/9677wsdg6qixz3537v2rrm2no0n.jpg
+159,Arrival,Movie,Sci-Fi,Exciting,English,2016,116,7.9,85,https://image.tmdb.org/t/p/w500/9ubdpebp3qt20emek2bwovycncy.jpg
+160,Kaithi,Movie,Action,Intense,Tamil,2019,145,8.5,100,https://image.tmdb.org/t/p/w500/by9wagjskdgf4d7vkciwxojy48a.jpg
+161,A Separation,Movie,Drama,Emotional,Persian,2011,123,8.3,71,https://image.tmdb.org/t/p/w500/j91dcfb5ra8sgxyg5me42rokdt2.jpg
+162,Nosferatu,Movie,Horror,Scary,German,1922,94,7.9,98,https://image.tmdb.org/t/p/w500/flin6bonjjm3qlydqkg0ezjkbyt.jpg
+163,Happy End,Movie,Drama,Emotional,French,2017,107,6.7,68,https://image.tmdb.org/t/p/w500/syc117kdc2ytbgr9icixhnftnfh.jpg
+164,Avatar,Movie,Sci-Fi,Exciting,English,2009,162,7.9,97,https://image.tmdb.org/t/p/w500/qec0if0wltkbue01lrjvyfwyxp6.jpg
+165,Alphaville,Movie,Sci-Fi,Exciting,French,1965,99,7.0,76,https://image.tmdb.org/t/p/w500/1sq7p9gmy6r5vd2t9e7eop6f9dh.jpg
+166,Toy Story,Animation,Animation,Happy,English,1995,81,8.3,72,https://image.tmdb.org/t/p/w500/v1jnzmqgldw0rclvjpwshcyac6l.jpg
+167,Whiplash,Movie,Drama,Emotional,English,2014,106,8.5,83,https://image.tmdb.org/t/p/w500/xv1c826a8e4xrs6z229fmm6zvno.jpg
+168,Cries and Whispers,Movie,Drama,Emotional,Swedish,1972,91,8.1,67,https://image.tmdb.org/t/p/w500/hosown6t623vdebkivtniiv6qnz.jpg
+169,Shrek,Animation,Animation,Happy,English,2001,90,7.9,98,https://image.tmdb.org/t/p/w500/z20i8xtyspy2ll71kgvp5mosuj5.jpg
+170,Fantastic Mr. Fox,Animation,Animation,Happy,English,2009,87,7.9,70,https://image.tmdb.org/t/p/w500/kb48fu9tefqktpwh6rtojqqw2h9.jpg
+171,The Wrestler,Movie,Drama,Emotional,English,2008,109,7.9,90,https://image.tmdb.org/t/p/w500/d2uw9c4925clsajwzo8vzdxiw1v.jpg
+172,Gangs of New York,Movie,Crime,Gritty,English,2002,167,7.5,96,https://image.tmdb.org/t/p/w500/ufjbld4jni7v94yw9zd16lwkchz.jpg
+173,Aladdin,Animation,Animation,Happy,English,1992,90,8.0,73,https://image.tmdb.org/t/p/w500/8jx693oyx4s4n94daugsx2jy1gs.jpg
+174,Spirited Away,Animation,Animation,Happy,Japanese,2001,125,8.6,87,https://image.tmdb.org/t/p/w500/ehf110dn38egn4bm0nj30qro2if.jpg
+175,Capernaum,Movie,Drama,Emotional,Arabic,2018,126,8.4,68,https://image.tmdb.org/t/p/w500/oaumiifkz9t2qk82gu4wpml8oys.jpg
+176,The Chaser,Movie,Thriller,Suspense,Korean,2008,125,7.8,75,https://image.tmdb.org/t/p/w500/wqz4xtwrjfob99am3g63x6nk2qr.jpg
+177,Avengers: Infinity War,Movie,Action,Intense,English,2018,149,8.4,97,https://image.tmdb.org/t/p/w500/dk7k8z49ebzvlmdpxt4g9ij9gwy.jpg
+178,Kings of the Road,Movie,Drama,Emotional,German,1976,175,7.8,94,https://image.tmdb.org/t/p/w500/rpf9k770r9hhuja6bukj2y08xpd.jpg
+179,Ponyo,Animation,Animation,Happy,Japanese,2008,101,7.6,85,https://image.tmdb.org/t/p/w500/zss057vhgoatewfn0iiuc0nj8qe.jpg
+180,Skyfall,Movie,Action,Intense,English,2012,143,7.8,89,https://image.tmdb.org/t/p/w500/2kt8ewss2q9oie84ep0o3jh71rc.jpg
+181,Forrest Gump,Movie,Drama,Emotional,English,1994,142,8.8,96,https://image.tmdb.org/t/p/w500/k8583ejzy40ytlujm4ebnenpixd.jpg
+182,Sarpatta Parambarai,Movie,Action,Intense,Tamil,2021,173,8.5,70,https://image.tmdb.org/t/p/w500/vjzpuqv4hfmntdfjhs07ddrrs1w.jpg
+183,Dune,Movie,Sci-Fi,Exciting,English,2021,155,8.0,91,https://image.tmdb.org/t/p/w500/uq7a0i5ems6r260kb2dzvegci5t.jpg
+184,"Paris, Texas",Movie,Drama,Emotional,English,1984,145,8.1,65,https://image.tmdb.org/t/p/w500/1gljsuq7awi7rru4peb4e4rj0gt.jpg
+185,Klaus,Animation,Animation,Happy,English,2019,96,8.2,75,https://image.tmdb.org/t/p/w500/siqji0apm258zhpamplu5w1lt7z.jpg
+186,The Departed,Movie,Crime,Gritty,English,2006,151,8.5,84,https://image.tmdb.org/t/p/w500/xosfmwlpfjxsdujh8ik2bq797cm.jpg
+187,Happy Together,Movie,Drama,Emotional,Cantonese,1997,96,7.7,82,https://image.tmdb.org/t/p/w500/az2y9spxeht2no6z6ujf4pdcrnv.jpg
+188,Jules and Jim,Movie,Romance,Romantic,French,1962,105,7.7,95,https://image.tmdb.org/t/p/w500/nkhc363bccarzl117rxn3t313x8.jpg
+189,Pulp Fiction,Movie,Crime,Gritty,English,1994,154,8.9,97,https://image.tmdb.org/t/p/w500/l13k3o0sudahglvtvhq9bz1ebua.jpg
+190,Kagemusha,Movie,Drama,Emotional,Japanese,1980,162,7.9,87,https://image.tmdb.org/t/p/w500/gq2qwrzeajpvk7zfxxid36o2poy.jpg
+191,Moonlight,Movie,Drama,Emotional,English,2016,111,7.4,95,https://image.tmdb.org/t/p/w500/a8kqplzo5am3497m12d4almkg41.jpg
+192,Inside Out,Animation,Animation,Happy,English,2015,95,8.1,88,https://image.tmdb.org/t/p/w500/h495dli4de1a6fkbu4cc9ghqudn.jpg
+193,Once Upon a Time in China,Movie,Action,Intense,Cantonese,1991,134,7.3,96,https://image.tmdb.org/t/p/w500/wzvco4zqz2z47x84xvr3y8ge5yv.jpg
+194,Karnan,Movie,Drama,Emotional,Tamil,2021,158,8.1,66,https://image.tmdb.org/t/p/w500/ql0k5jfnxbep1iavzy0nim62div.jpg
+195,All About My Mother,Movie,Drama,Emotional,Spanish,1999,101,7.8,67,https://image.tmdb.org/t/p/w500/k3ga4vsxyjaeroqnwy7km04jnik.jpg
+196,Top Gun,Movie,Action,Intense,English,1986,110,6.9,79,https://image.tmdb.org/t/p/w500/466jtzlmkw929rweqa1swydaozh.jpg
+197,Mad Max: Fury Road,Movie,Action,Intense,English,2015,120,8.1,91,https://image.tmdb.org/t/p/w500/4fykfwbqk2lcsuqhy6cs7aq92tf.jpg
+198,"Spring, Summer, Fall, Winter... and Spring",Movie,Drama,Emotional,Korean,2003,103,8.0,98,https://image.tmdb.org/t/p/w500/41zi4vly19xes1qst0gpk41yzp1.jpg
+199,Glass,Movie,Sci-Fi,Exciting,English,2019,129,6.6,87,https://image.tmdb.org/t/p/w500/easv46403occfgnnl0igmowfa90.jpg
+200,Blade Runner 2049,Movie,Sci-Fi,Exciting,English,2017,164,8.0,69,https://image.tmdb.org/t/p/w500/6m78f3x1x4qzn20uh61atvs2bbd.jpg
+201,Inception,Movie,Sci-Fi,Exciting,English,2010,148,8.8,97,https://image.tmdb.org/t/p/w500/gik5lxhajtvrcwgluslqt7i1pi2.jpg
+202,Another Round,Movie,Drama,Emotional,Danish,2020,117,7.7,65,https://image.tmdb.org/t/p/w500/6c3ozjraxrx9jviyrs0w8ia0426.jpg
+203,Sunrise: A Song of Two Humans,Movie,Drama,Emotional,English,1927,94,8.1,81,https://image.tmdb.org/t/p/w500/gioz9tm2pe7xzixskugc4wy6929.jpg
+204,Vikram,Movie,Action,Intense,Tamil,2022,175,8.3,93,https://image.tmdb.org/t/p/w500/d5f58ya04m56mzkjjpr6pnh9eow.jpg
+205,La La Land,Movie,Romance,Romantic,English,2016,128,8.0,69,https://image.tmdb.org/t/p/w500/5utvc74vn7rl9yall7a19ysrkeh.jpg
+206,Tokyo Story,Movie,Drama,Emotional,Japanese,1953,136,8.1,100,https://image.tmdb.org/t/p/w500/ncyudloovuxhv9tnamhpnpcgpw1.jpg
+207,The Killer,Movie,Action,Intense,Cantonese,1989,111,7.8,78,https://image.tmdb.org/t/p/w500/g2ri3e4uahi5qc5dx25gvp4kpmx.jpg
+208,Visaaranai,Movie,Crime,Gritty,Tamil,2015,117,8.4,92,https://image.tmdb.org/t/p/w500/oa8kch806lg335nacgjq1xjxd5q.jpg
+209,Soorarai Pottru,Movie,Drama,Emotional,Tamil,2020,153,8.7,89,https://image.tmdb.org/t/p/w500/doop1nbbecb2xmddroze8lsufxc.jpg
+210,Triangle of Sadness,Movie,Comedy,Happy,English,2022,147,7.3,72,https://image.tmdb.org/t/p/w500/7tk2drx9vxd428ocu0vc8izuylo.jpg
+211,Full Metal Jacket,Movie,War,Epic,English,1987,116,8.3,87,https://image.tmdb.org/t/p/w500/omfaetn6yem0kul8byva9b6g7dz.jpg
+212,In the Mood for Love,Movie,Romance,Romantic,Cantonese,2000,98,8.1,89,https://image.tmdb.org/t/p/w500/cno6jk0g4qt4n3wbt7n2gjkusi1.jpg
+213,The Marriage of Maria Braun,Movie,Drama,Emotional,German,1979,120,7.7,71,https://image.tmdb.org/t/p/w500/842aqyqvysk9bjf8zhsohabxq4s.jpg
+214,Little Women,Movie,Drama,Emotional,English,2019,135,7.8,90,https://image.tmdb.org/t/p/w500/rxgrf4yebsfe4yc2ydedtu6dozi.jpg
+215,Pithamagan,Movie,Drama,Emotional,Tamil,2003,148,8.3,66,https://image.tmdb.org/t/p/w500/jem0t119rb9tpcwa3dofac7qw9l.jpg
+216,Close Encounters,Movie,Sci-Fi,Exciting,English,1977,138,7.6,87,https://image.tmdb.org/t/p/w500/31dztcmclfjhol54sjq6kn07n8v.jpg
+217,Rififi,Movie,Crime,Gritty,French,1955,118,8.1,79,https://image.tmdb.org/t/p/w500/4kiizknk6v8ebxqa3orha0g3w5e.jpg
+218,Vivre Sa Vie,Movie,Drama,Emotional,French,1962,85,7.9,100,https://image.tmdb.org/t/p/w500/njxrznb64mdqvoa1uvysurbligy.jpg
+219,Man of Steel,Movie,Action,Intense,English,2013,143,7.1,87,https://image.tmdb.org/t/p/w500/s5bu2vs8lc6l3yh4gne09bpqubm.jpg
+220,Phantom Thread,Movie,Drama,Emotional,English,2017,130,7.5,77,https://image.tmdb.org/t/p/w500/5d0x8kq9wt07k9lhullyx868g1l.jpg
+221,L'Argent,Movie,Drama,Emotional,French,1983,85,7.4,89,https://image.tmdb.org/t/p/w500/q9gaw93cbgpna0kzucbzsa46u1v.jpg
+222,Run Lola Run,Movie,Action,Intense,German,1998,80,7.6,73,https://image.tmdb.org/t/p/w500/igbmxur5b5kmq758rfya34bd5j7.jpg
+223,Mouna Guru,Movie,Crime,Gritty,Tamil,2011,150,7.7,78,https://image.tmdb.org/t/p/w500/h7appccrbjz1qklamdw0a9ac6xe.jpg
+224,Army of Shadows,Movie,War,Epic,French,1969,145,8.1,77,https://image.tmdb.org/t/p/w500/v39e0280uufjkrllecjmzih2p9p.jpg
+225,Finding Nemo,Animation,Animation,Happy,English,2003,100,8.2,67,https://image.tmdb.org/t/p/w500/03miweosxcrs5lhigebaji9zlz2.jpg
+226,Fox and His Friends,Movie,Drama,Emotional,German,1975,123,7.8,75,https://image.tmdb.org/t/p/w500/abasjoui6hp54ap689ol1003t8a.jpg
+227,Pan's Labyrinth,Movie,Fantasy,Magical,Spanish,2006,118,8.2,91,https://image.tmdb.org/t/p/w500/vfl367qqbf8ec4nlmgdv5w2q4i0.jpg
+228,The Thing,Movie,Horror,Scary,English,1982,109,8.2,82,https://image.tmdb.org/t/p/w500/gpbbbba5n2h3ur4d41hkgeoe792.jpg
+229,Boogie Nights,Movie,Drama,Emotional,English,1997,155,7.9,90,https://image.tmdb.org/t/p/w500/uqprq02dovvssbq3ihmbykbaxvu.jpg
+230,Day For Night,Movie,Comedy,Happy,French,1973,116,8.0,75,https://image.tmdb.org/t/p/w500/bpitl07iffne5pjkv4nn8ouccmc.jpg
+231,Quiet Place 2,Movie,Horror,Scary,English,2020,97,7.2,80,https://image.tmdb.org/t/p/w500/o7hm3sfm4yqoyqrceolszad0vqn.jpg
+232,E.T.,Movie,Sci-Fi,Exciting,English,1982,115,7.9,94,https://image.tmdb.org/t/p/w500/bqt77vi3pfrqscqunqfb3crt4wy.jpg
+233,Platoon,Movie,War,Epic,English,1986,120,8.1,92,https://image.tmdb.org/t/p/w500/ni0hna27m54r4kwq13e0g9k5r1v.jpg
+234,Asuran,Movie,Action,Intense,Tamil,2019,141,8.4,73,https://image.tmdb.org/t/p/w500/gf8egz4x1vue0xegmrnqo1xdpjs.jpg
+235,The Witch,Movie,Horror,Scary,English,2015,92,6.9,65,https://image.tmdb.org/t/p/w500/75uufddauzeeel5m1p848ogs733.jpg
+236,Michael Madana Kama Rajan,Movie,Comedy,Happy,Tamil,1990,152,8.5,72,https://image.tmdb.org/t/p/w500/bvzexccf1ciwmei77bbx2zplioo.jpg
+237,Parasite,Movie,Thriller,Suspense,Korean,2019,132,8.5,99,https://image.tmdb.org/t/p/w500/ldsnn1zklt002qvdbbu68sxfeyn.jpg
+238,Psycho,Movie,Horror,Scary,English,1960,109,8.5,66,https://image.tmdb.org/t/p/w500/tjm2ot77yqj9lk6g4p5ekmpptgd.jpg
+239,Amores Perros,Movie,Drama,Emotional,Spanish,2000,154,8.1,74,https://image.tmdb.org/t/p/w500/nkiwf76b70vvt4w73nhyyqx8j15.jpg
+240,Alice in the Cities,Movie,Drama,Emotional,German,1974,110,7.9,66,https://image.tmdb.org/t/p/w500/l7g8wc8wr2jm6p8zhq9lqdnavrq.jpg
+241,Enemy,Movie,Mystery,Intriguing,English,2013,91,6.9,78,https://image.tmdb.org/t/p/w500/c63icimn9ecogkirk8zctkqrpsf.jpg
+242,Fanny and Alexander,Movie,Drama,Emotional,Swedish,1982,188,8.1,97,https://image.tmdb.org/t/p/w500/by9tsd2nwa0gbszxyzobm6wl2l5.jpg
+243,Monty Python and the Holy Grail,Movie,Comedy,Happy,English,1975,91,8.2,96,https://image.tmdb.org/t/p/w500/g7ytr9wluswzyz98v36lhdan1qx.jpg
+244,Nayakan,Movie,Crime,Gritty,Tamil,1987,145,8.6,97,https://image.tmdb.org/t/p/w500/3ckk2s30i92vmy1klycynlpkrcl.jpg
+245,Cinema Paradiso,Movie,Drama,Emotional,Italian,1988,155,8.5,88,https://image.tmdb.org/t/p/w500/vd8q9m7fczmsry3i936clhm6v6v.jpg
+246,La Haine,Movie,Crime,Gritty,French,1995,98,8.1,72,https://image.tmdb.org/t/p/w500/nx09doc3d3u3547ms321znazhfc.jpg
+247,Some Like It Hot,Movie,Comedy,Happy,English,1959,121,8.2,75,https://image.tmdb.org/t/p/w500/9eb7izuha38mveor59ux28ayccq.jpg
+248,Toy Story 3,Animation,Animation,Happy,English,2010,103,8.3,79,https://image.tmdb.org/t/p/w500/dtanzf7acrryeulwkw3byh7eapr.jpg
+249,Prisoners,Movie,Thriller,Suspense,English,2013,153,8.1,69,https://image.tmdb.org/t/p/w500/z4g0z045849bcm18wd7bm5d6uux.jpg
+250,Millennium Actress,Animation,Animation,Happy,Japanese,2001,87,7.8,100,https://image.tmdb.org/t/p/w500/hlwdte0tba4d25b1b5kgnzxqras.jpg
+251,The Village,Movie,Mystery,Intriguing,English,2004,108,6.6,90,https://image.tmdb.org/t/p/w500/vjz68qfnn8wd8agviqwfavdh0jd.jpg
+252,Drunken Master II,Movie,Action,Intense,Cantonese,1994,102,7.5,66,https://image.tmdb.org/t/p/w500/r1aijzzu5tcwzfoy3ho9cqyfl14.jpg
+253,Peranbu,Movie,Drama,Emotional,Tamil,2018,147,8.7,82,https://image.tmdb.org/t/p/w500/p4jki5kjzn8raw71pgka9nrpmpv.jpg
+254,Lego Movie,Animation,Animation,Happy,English,2014,100,7.7,72,https://image.tmdb.org/t/p/w500/cslzuvjf9o1j612ocrq6dossfso.jpg
+255,The Red Circle,Movie,Crime,Gritty,French,1970,140,7.9,96,https://image.tmdb.org/t/p/w500/bxn78cyyqbpmoz0zjr1lmq8rnv2.jpg
+256,Pickpocket,Movie,Crime,Gritty,French,1959,75,7.6,75,https://image.tmdb.org/t/p/w500/kfhgokqoz9cc2kax90sf6i32knn.jpg
+257,Wild Strawberries,Movie,Drama,Emotional,Swedish,1957,91,8.1,87,https://image.tmdb.org/t/p/w500/d915xa4iduk4gncdxhsu5ai4a7y.jpg
+258,Red Desert,Movie,Drama,Emotional,Italian,1964,117,7.5,98,https://image.tmdb.org/t/p/w500/br3ve25aj1dmlc1wfdg0i1k63aj.jpg
+259,Past Lives,Movie,Romance,Romantic,English,2023,105,7.9,99,https://image.tmdb.org/t/p/w500/lzvf2ers0ji96zmpkpmd4eps3uc.jpg
+260,Requiem for a Dream,Movie,Drama,Emotional,English,2000,102,8.3,83,https://image.tmdb.org/t/p/w500/fnga7bfpnn1xgnm9uk607ysd2ay.jpg
+261,Little Mermaid,Animation,Animation,Happy,English,1989,83,7.6,68,https://image.tmdb.org/t/p/w500/rd0szx2dr8uypf1lzd8sy9nk978.jpg
+262,Hero,Movie,Action,Intense,Mandarin,2002,99,7.9,99,https://image.tmdb.org/t/p/w500/02iyjggddr17gnnxsa9koxkfrv6.jpg
+263,X2,Movie,Action,Intense,English,2003,134,7.4,91,https://image.tmdb.org/t/p/w500/iemvw1r28ftmxly3fy9serqct11.jpg
+264,The Wolf of Wall Street,Movie,Biography,Inspiring,English,2013,180,8.2,88,https://image.tmdb.org/t/p/w500/d0a75ojojb5uszlmizkodzjfzyk.jpg
+265,Chandramukhi,Movie,Horror,Scary,Tamil,2005,166,7.2,78,https://image.tmdb.org/t/p/w500/ldq4laign56y06ku3kg1crt32rq.jpg
+266,The Master,Movie,Drama,Emotional,English,2012,144,7.1,66,https://image.tmdb.org/t/p/w500/02o6eokv9xpaejfrcmavxm50e00.jpg
+267,Toy Story 2,Animation,Animation,Happy,English,1999,92,7.9,73,https://image.tmdb.org/t/p/w500/1w1nvt07lompalhcs91fzdf1rkq.jpg
+268,Coco,Animation,Animation,Happy,English,2017,105,8.4,98,https://image.tmdb.org/t/p/w500/vy2182x9djgx5rokl2s0ja0lm0p.jpg
+269,Maanaadu,Movie,Sci-Fi,Exciting,Tamil,2021,147,8.2,96,https://image.tmdb.org/t/p/w500/7jwaq10zt3np15o4alwf2v8ollr.jpg
+270,M. Hulot's Holiday,Movie,Comedy,Happy,French,1953,88,7.4,80,https://image.tmdb.org/t/p/w500/0b6yvnjas3wfvoy5j69mjofr3an.jpg
+271,Banshees of Inisherin,Movie,Comedy,Happy,English,2022,114,7.7,74,https://image.tmdb.org/t/p/w500/66w53rrbt5vifi1x6psa6zqveva.jpg
+272,Us,Movie,Horror,Scary,English,2019,116,6.8,68,https://image.tmdb.org/t/p/w500/uchaboecn5zulroebe06dmz1j2f.jpg
+273,A Man Escaped,Movie,War,Epic,French,1956,99,8.2,87,https://image.tmdb.org/t/p/w500/1d2eavialjef5rc01tyue2a7nmj.jpg
+274,Casablanca,Movie,Drama,Emotional,English,1942,102,8.5,91,https://image.tmdb.org/t/p/w500/km07jo6xsdn0ltvp923k945lypt.jpg
+275,Sicario,Movie,Action,Intense,English,2015,121,7.7,83,https://image.tmdb.org/t/p/w500/e83fkphw8cas6ycink1l11c6cx2.jpg
+276,Contempt,Movie,Drama,Emotional,French,1963,102,7.5,97,https://image.tmdb.org/t/p/w500/f9h81o67lilpyrjvfjcb3ve2lf6.jpg
+277,Her,Movie,Romance,Romantic,English,2013,126,8.0,68,https://image.tmdb.org/t/p/w500/9vii5sdiyiv44pkzvq5papx639a.jpg
+278,Last Year at Marienbad,Movie,Mystery,Intriguing,French,1961,94,7.7,67,https://image.tmdb.org/t/p/w500/epefr3bbzli3gizmxijr59rndj4.jpg
+279,Singin' in the Rain,Movie,Comedy,Happy,English,1952,103,8.3,95,https://image.tmdb.org/t/p/w500/pjowajnlejxvqk54hiz4pqbzt3p.jpg
+280,Akira,Animation,Animation,Happy,Japanese,1988,124,8.0,99,https://image.tmdb.org/t/p/w500/x7a4rqoqbvj95cqmoltlju5vu1d.jpg
+281,Moondram Pirai,Movie,Drama,Emotional,Tamil,1982,145,8.6,77,https://image.tmdb.org/t/p/w500/r2b1hlptqjxfeqefro3i1ffqkqs.jpg
+282,La Dolce Vita,Movie,Drama,Emotional,Italian,1960,174,8.0,92,https://image.tmdb.org/t/p/w500/yi1b1s63f41qvabmd06x03gwvqm.jpg
+283,Virumandi,Movie,Drama,Emotional,Tamil,2004,178,8.4,80,https://image.tmdb.org/t/p/w500/58abvvibc2flno7ib1vbwd09fno.jpg
+284,Paprika,Animation,Animation,Happy,Japanese,2006,90,7.7,72,https://image.tmdb.org/t/p/w500/23de1flmtn7nt3d1jd4f1bycpyr.jpg
+285,Toy Story 4,Animation,Animation,Happy,English,2019,100,7.7,67,https://image.tmdb.org/t/p/w500/s7caz0lakkk9dsmpvmd7jm6a93t.jpg
+286,Papanasam,Movie,Thriller,Suspense,Tamil,2015,179,8.4,69,https://image.tmdb.org/t/p/w500/y8gjemqzmzucjebs41eupwye0o5.jpg
+287,Bob le Flambeur,Movie,Crime,Gritty,French,1956,104,7.6,72,https://image.tmdb.org/t/p/w500/4s4jhgqp97plenrzmyhfkciyihs.jpg
+288,Amélie,Movie,Comedy,Happy,French,2001,122,8.3,90,https://image.tmdb.org/t/p/w500/q5rhgsx7znp1ce31xx7pkjp1mvz.jpg
+289,Kaaka Muttai,Movie,Drama,Emotional,Tamil,2014,109,8.3,75,https://image.tmdb.org/t/p/w500/hpqa8009ovtox6mvjl4l4gs6mra.jpg
+290,Casino Royale,Movie,Action,Intense,English,2006,144,8.0,71,https://image.tmdb.org/t/p/w500/x2e389vi2hj576zvp19dndjnrpu.jpg
+291,X-Men,Movie,Action,Intense,English,2000,104,7.3,78,https://image.tmdb.org/t/p/w500/get52syoo96efjy9m8ms9hjfdqg.jpg
+292,City of God,Movie,Crime,Gritty,Portuguese,2002,130,8.6,97,https://image.tmdb.org/t/p/w500/une4u5t44zi6epf3akf80iugpa6.jpg
+293,Amarcord,Movie,Comedy,Happy,Italian,1973,123,7.8,71,https://image.tmdb.org/t/p/w500/t1lczlm79tc8dbrsfsb6oqpzp2o.jpg
+294,Ivan's Childhood,Movie,War,Epic,Russian,1962,95,8.0,70,https://image.tmdb.org/t/p/w500/aifnpxf4qvh3lqa9ls7s7ak7qqx.jpg
+295,Aruvi,Movie,Drama,Emotional,Tamil,2017,130,8.4,74,https://image.tmdb.org/t/p/w500/814lxdrd7medclxuemyjo9dtwgm.jpg
+296,The Revenant,Movie,Adventure,Exciting,English,2015,156,8.0,97,https://image.tmdb.org/t/p/w500/e8y858rs8x4c9a4ekzko7l38vpp.jpg
+297,The Great Dictator,Movie,Comedy,Happy,English,1940,125,8.4,97,https://image.tmdb.org/t/p/w500/lmxx6woph537e97oq1mvuxpcdac.jpg
+298,The Irishman,Movie,Crime,Gritty,English,2019,209,7.8,76,https://image.tmdb.org/t/p/w500/325ugjsquha1lmk7geczmmduzx2.jpg
+299,The Triplets of Belleville,Animation,Animation,Happy,French,2003,80,7.7,71,https://image.tmdb.org/t/p/w500/xoz8y1uyx08q23ag9udzsbmjtuh.jpg
+300,Nightmare Before Christmas,Animation,Animation,Happy,English,1993,76,7.9,100,https://image.tmdb.org/t/p/w500/6lcyiymzw6vfpezgpaa6jew294v.jpg
+301,Curse of the Golden Flower,Movie,Action,Intense,Mandarin,2006,114,7.0,84,https://image.tmdb.org/t/p/w500/us53kd2tf1d89mxa17i8y28eaeh.jpg
+302,Good Bye Lenin!,Movie,Comedy,Happy,German,2003,121,7.7,96,https://image.tmdb.org/t/p/w500/37og6j50fj1jixsoikfv2t75mrk.jpg
+303,The Leopard,Movie,Drama,Emotional,Italian,1963,186,8.0,86,https://image.tmdb.org/t/p/w500/iv65fz66ihaknna53o6e7wp0209.jpg
+304,Ali: Fear Eats the Soul,Movie,Romance,Romantic,German,1974,93,8.0,94,https://image.tmdb.org/t/p/w500/34jin0e99t84x15ew2xzfc2jr45.jpg
+305,Theeran Adhigaram Ondru,Movie,Action,Intense,Tamil,2017,157,8.2,74,https://image.tmdb.org/t/p/w500/8xr3qkpqoblgwtseyquf5h159yc.jpg
+306,Song of the Sea,Animation,Animation,Happy,English,2014,93,8.0,87,https://image.tmdb.org/t/p/w500/d7akjgm8i25rf5qo1zq3daqbgex.jpg
+307,Birdman,Movie,Drama,Emotional,English,2014,119,7.7,69,https://image.tmdb.org/t/p/w500/losbxesfqu2v8ixmqssyw03ihdn.jpg
+308,The Secret in Their Eyes,Movie,Mystery,Intriguing,Spanish,2009,129,8.2,80,https://image.tmdb.org/t/p/w500/dc82ww3nuaajnaezh585am8yry2.jpg
+309,Lady Bird,Movie,Drama,Emotional,English,2017,94,7.4,77,https://image.tmdb.org/t/p/w500/iktajegbl7wy0dotw1lq74c8p7u.jpg
+310,Padayappa,Movie,Action,Intense,Tamil,1999,183,8.2,91,https://image.tmdb.org/t/p/w500/rxb0p3yksd2z7tu5ylaq9pygrbo.jpg
+311,Police Story,Movie,Action,Intense,Cantonese,1985,100,7.5,100,https://image.tmdb.org/t/p/w500/a7oslism3h3np8firjy9io757gg.jpg
+312,Decision to Leave,Movie,Mystery,Intriguing,Korean,2022,139,7.3,82,https://image.tmdb.org/t/p/w500/m4v7xdhhhqa7te25f74k290avfx.jpg
+313,Broker,Movie,Drama,Emotional,Korean,2022,129,7.1,66,https://image.tmdb.org/t/p/w500/trncop1nndsl2ikgxi19z2ji6w3.jpg
+314,Shaolin Soccer,Movie,Action,Intense,Cantonese,2001,87,7.3,93,https://image.tmdb.org/t/p/w500/hzg304mkzne6xd7yviplrbj9b3j.jpg
+315,Frozen,Animation,Animation,Happy,English,2013,102,7.4,71,https://image.tmdb.org/t/p/w500/ulkiphae52ttla2bz4k0trtqdaj.jpg
+316,Taare Zameen Par,Movie,Drama,Emotional,Hindi,2007,165,8.3,68,https://image.tmdb.org/t/p/w500/eug1wbzewbq5plpjizat59nyho4.jpg
+317,Mulan,Animation,Animation,Happy,English,1998,88,7.6,89,https://image.tmdb.org/t/p/w500/9n1enwwadtkxovrpe8upfxid3rp.jpg
+318,Signs,Movie,Sci-Fi,Exciting,English,2002,106,6.8,95,https://image.tmdb.org/t/p/w500/o40t7pnsyp73jm627cvrxci76r9.jpg
+319,Tie Me Up! Tie Me Down!,Movie,Comedy,Happy,Spanish,1989,101,7.0,69,https://image.tmdb.org/t/p/w500/l5lv9vv15m0uok84cw76x70x4el.jpg
+320,Lagaan,Movie,Drama,Emotional,Hindi,2001,224,8.1,94,https://image.tmdb.org/t/p/w500/jmg3iq3dpvh8zplmpe4ylbph8s8.jpg
+321,My Life as a Zucchini,Animation,Animation,Happy,French,2016,66,7.8,68,https://image.tmdb.org/t/p/w500/x5z53yiqkeiindb3yrdx4drb5ve.jpg
+322,96,Movie,Romance,Romantic,Tamil,2018,158,8.5,92,https://image.tmdb.org/t/p/w500/lst86pkopnpw3ofatfdk0ze25e8.jpg
+323,Come and See,Movie,War,Epic,Russian,1985,142,8.4,81,https://image.tmdb.org/t/p/w500/h24qfzr0e8jgbvcq79rfygekl33.jpg
+324,The Platform,Movie,Sci-Fi,Exciting,Spanish,2019,94,7.0,81,https://image.tmdb.org/t/p/w500/gcxwm5u7cnemc45p097w1b0r3ol.jpg
+325,The Raid,Movie,Action,Intense,Indonesian,2011,101,7.6,90,https://image.tmdb.org/t/p/w500/m4zy9a1ft9cf5yygipz5tdh65si.jpg
+326,The Handmaiden,Movie,Drama,Emotional,Korean,2016,145,8.1,75,https://image.tmdb.org/t/p/w500/s8959jotq5kkpx5dynkduygbqow.jpg
+327,Inside Out 2,Animation,Animation,Happy,English,2024,96,7.8,70,https://image.tmdb.org/t/p/w500/rhdpaxgmkmhmho6rajhgc48zuen.jpg
+328,Citizen Kane,Movie,Drama,Emotional,English,1941,119,8.3,75,https://image.tmdb.org/t/p/w500/s78r4dqytbaf7vap9vn08gmpahv.jpg
+329,The Virgin Spring,Movie,Drama,Emotional,Swedish,1960,89,8.0,86,https://image.tmdb.org/t/p/w500/o21lssd8bjk2y5ita8zbtjnpubz.jpg
+330,Wonder Woman,Movie,Action,Intense,English,2017,141,7.4,74,https://image.tmdb.org/t/p/w500/sh0hzfr7vacyixjgi5wvje1zwyp.jpg
+331,Baader Meinhof Complex,Movie,History,Thoughtful,German,2008,150,7.3,73,https://image.tmdb.org/t/p/w500/gecsrz68w1xeftaejoniypw03jo.jpg
+332,Ghost in the Shell,Animation,Animation,Happy,Japanese,1995,83,7.9,77,https://image.tmdb.org/t/p/w500/qfyyo9gsl4darza4gwamsrip0bg.jpg
+333,Portrait of a Lady on Fire,Movie,Romance,Romantic,French,2019,122,8.1,86,https://image.tmdb.org/t/p/w500/muaazbaozzxewajwyrf183ecrh9.jpg
+334,Zootopia,Animation,Animation,Happy,English,2016,108,8.0,86,https://image.tmdb.org/t/p/w500/36sywlvzuosdmkkybh4gr41nmt9.jpg
+335,Enthiran,Movie,Sci-Fi,Exciting,Tamil,2010,165,7.1,76,https://image.tmdb.org/t/p/w500/cw4o5risndjk5ti9ifmqz699wa8.jpg
+336,West Side Story,Movie,Drama,Emotional,English,1961,153,7.6,89,https://image.tmdb.org/t/p/w500/tlkbsgp00749r59ejdkfzoq1jr7.jpg
+337,Punch-Drunk Love,Movie,Comedy,Happy,English,2002,95,7.3,84,https://image.tmdb.org/t/p/w500/w206lmvvd5095yb52n61lbnl52m.jpg
+338,Thor: Ragnarok,Movie,Action,Intense,English,2017,130,7.9,97,https://image.tmdb.org/t/p/w500/2hmv4c6y64g3kr0blt2vv7g75cf.jpg
+339,Vada Chennai,Movie,Crime,Gritty,Tamil,2018,164,8.4,69,https://image.tmdb.org/t/p/w500/a39dedsiywuv7peqnwxgdmw8cff.jpg
+340,Super Deluxe,Movie,Crime,Gritty,Tamil,2019,176,8.3,72,https://image.tmdb.org/t/p/w500/4ysmg773ssw5gnntoxvxyt5ov0t.jpg
+341,Dersu Uzala,Movie,Adventure,Exciting,Russian,1975,142,8.2,100,https://image.tmdb.org/t/p/w500/04859wwo4o5pucw2odf5r1cvqf1.jpg
+342,Moonrise Kingdom,Movie,Comedy,Happy,English,2012,94,7.8,72,https://image.tmdb.org/t/p/w500/uq25ru86v7jfaa57az0kabmxwhh.jpg
+343,Deep Red,Movie,Horror,Scary,Italian,1975,127,7.5,88,https://image.tmdb.org/t/p/w500/cksd4ad3f23q5ywaiw0o5ymsbs1.jpg
+344,Burning,Movie,Mystery,Intriguing,Korean,2018,148,7.5,68,https://image.tmdb.org/t/p/w500/0ny1hu8ms6597q1zunz4p1nn0hm.jpg
+345,Baasha,Movie,Action,Intense,Tamil,1995,145,8.3,97,https://image.tmdb.org/t/p/w500/e5a759coe01djzjmkvppvifgxoz.jpg
+346,Dangal,Movie,Action,Intense,Hindi,2016,161,8.3,77,https://image.tmdb.org/t/p/w500/bykadgt9w8prwadaw6oeeuy1e9w.jpg
+347,The Menu,Movie,Thriller,Suspense,English,2022,107,7.2,82,https://image.tmdb.org/t/p/w500/0zpqmpeojw57prc7zc2t9mjyyvy.jpg
+348,Fallen Angels,Movie,Drama,Emotional,Cantonese,1995,99,7.7,91,https://image.tmdb.org/t/p/w500/wh7m888gdgec3d75cefdfnv8vy5.jpg
+349,Broken Embraces,Movie,Drama,Emotional,Spanish,2009,127,7.2,86,https://image.tmdb.org/t/p/w500/knkrrsiy4rnbjfbayyb3mf5g7x1.jpg
+350,Bombay,Movie,Drama,Emotional,Tamil,1995,141,8.1,91,https://image.tmdb.org/t/p/w500/eiiz8wsfmtv0dvleocc1972m522.jpg
+351,The Wages of Fear,Movie,Thriller,Suspense,French,1953,131,8.1,71,https://image.tmdb.org/t/p/w500/w3rl8ft3348qcjeuk9th9algatb.jpg
+352,Drive My Car,Movie,Drama,Emotional,Japanese,2021,179,7.6,84,https://image.tmdb.org/t/p/w500/oktspmef9rpqooz3lb4m2admvo3.jpg
+353,Leo,Movie,Action,Intense,Tamil,2023,164,7.2,84,https://image.tmdb.org/t/p/w500/sff8vif4n34q9a2l40274qnov3s.jpg
+354,Mouchette,Movie,Drama,Emotional,French,1967,78,7.7,91,https://image.tmdb.org/t/p/w500/34tkorze12rs8aa7n89a2hvvyt2.jpg
+355,Oppenheimer,Movie,Biography,Inspiring,English,2023,180,8.4,67,https://image.tmdb.org/t/p/w500/avwyi0se25te2zr3a924cmk004c.jpg
+356,Farewell My Concubine,Movie,Drama,Emotional,Mandarin,1993,171,8.1,70,https://image.tmdb.org/t/p/w500/fca32hzorp8jifzkt6s11zt8432.jpg
+357,Spider-Man: Across the Spider-Verse,Animation,Animation,Happy,English,2023,140,8.6,100,https://image.tmdb.org/t/p/w500/cyf5ga1yq7w7mo14y82lyuihd0l.jpg
+358,Tár,Movie,Drama,Emotional,English,2022,158,7.4,81,https://image.tmdb.org/t/p/w500/csukqmri400mopnpxjulzst5w97.jpg
+359,Groundhog Day,Movie,Comedy,Happy,English,1993,101,8.0,73,https://image.tmdb.org/t/p/w500/9hfysygdjuyekpkflhq653k8sec.jpg
+360,John Wick 4,Movie,Action,Intense,English,2023,169,7.7,92,https://image.tmdb.org/t/p/w500/xeprgjeck4cvd4q0x4xps4k7kz3.jpg
+361,Aliens,Movie,Sci-Fi,Exciting,English,1986,137,8.4,84,https://image.tmdb.org/t/p/w500/vl7cpiezoscjty6ltmncme1lsnn.jpg
+362,Hiroshima Mon Amour,Movie,Drama,Emotional,French,1959,90,7.8,88,https://image.tmdb.org/t/p/w500/vfx6t6wy3o02ensz5zjw9do1pai.jpg
+363,Princess Mononoke,Animation,Animation,Happy,Japanese,1997,134,8.4,72,https://image.tmdb.org/t/p/w500/8ibjvw9wvdlvc2xqlsmzencvc4j.jpg
+364,Interstellar,Movie,Sci-Fi,Exciting,English,2014,169,8.7,92,https://image.tmdb.org/t/p/w500/60j0vkkgkpybe1gzc29q8osch3e.jpg
+365,No Country for Old Men,Movie,Crime,Gritty,English,2007,122,8.2,66,https://image.tmdb.org/t/p/w500/zxylx44zxl11gzu2821w7ycj1vy.jpg
+366,Dunkirk,Movie,War,Epic,English,2017,106,7.8,90,https://image.tmdb.org/t/p/w500/xhlko29clccw3dspx8d1zco0efs.jpg
+367,Wild Tales,Movie,Comedy,Happy,Spanish,2014,122,8.1,93,https://image.tmdb.org/t/p/w500/d8xvyrluqjm3gzmsnii5rcfjhk4.jpg
+368,Mankatha,Movie,Action,Intense,Tamil,2011,160,7.6,71,https://image.tmdb.org/t/p/w500/gsswhbff1trqc78h0uqe64rr97a.jpg
+369,L'Eclisse,Movie,Drama,Emotional,Italian,1962,126,7.7,87,https://image.tmdb.org/t/p/w500/zdv4uhbahyhwxvfhjt58vav2ht9.jpg
+370,Ran,Movie,Drama,Emotional,Japanese,1985,162,8.2,87,https://image.tmdb.org/t/p/w500/7j7f6tle4bkt9arda10ijnp9i0k.jpg
+371,Call Me by Your Name,Movie,Romance,Romantic,English,2017,132,7.8,70,https://image.tmdb.org/t/p/w500/i8zvmvuxxi13yad6xbnrkvwzo0g.jpg
+372,The Intouchables,Movie,Comedy,Happy,French,2011,112,8.5,78,https://image.tmdb.org/t/p/w500/64i7ad8pvyubtswlokuasxbhx0y.jpg
+373,Indiana Jones: Raiders of the Lost Ark,Movie,Adventure,Exciting,English,1981,115,8.4,75,https://image.tmdb.org/t/p/w500/9mxub0h1ejftcy5ozxdwfev4r34.jpg
+374,John Wick 2,Movie,Action,Intense,English,2017,122,7.4,96,https://image.tmdb.org/t/p/w500/ngazhvh0zz8yc8iyl2rlksyhk3d.jpg
+375,Eyes Without a Face,Movie,Horror,Scary,French,1960,90,7.6,78,https://image.tmdb.org/t/p/w500/ubrx0p88b2r8fiy45g7j7vcpxpo.jpg
+376,Porco Rosso,Animation,Animation,Happy,Japanese,1992,94,7.7,98,https://image.tmdb.org/t/p/w500/ze686jb31ldt044m1ns1a81a7m0.jpg
+377,Pierrot le Fou,Movie,Crime,Gritty,French,1965,110,7.5,79,https://image.tmdb.org/t/p/w500/b3m0rnvzdyg067y1eqekrepy7kp.jpg
+378,Solaris,Movie,Sci-Fi,Exciting,Russian,1972,167,8.0,71,https://image.tmdb.org/t/p/w500/iqfcjrdfn0vcr8c4tjmmo0g68ag.jpg
+379,Eternal Sunshine of the Spotless Mind,Movie,Drama,Emotional,English,2004,108,8.3,74,https://image.tmdb.org/t/p/w500/1xl4sn0num49c7rhfrlqril8bu9.jpg
+380,Amour,Movie,Drama,Emotional,French,2012,127,7.9,72,https://image.tmdb.org/t/p/w500/h1fkigofwph6iabbw18pf59dy97.jpg
+381,That Obscure Object of Desire,Movie,Comedy,Happy,French,1977,103,7.8,93,https://image.tmdb.org/t/p/w500/j00rtkeio7z7b9ralmmt8ydtynl.jpg
+382,Unforgiven,Movie,Western,Gritty,English,1992,130,8.2,85,https://image.tmdb.org/t/p/w500/p9od9mvnlpmyy5lybnkothc4s45.jpg
+383,Aftersun,Movie,Drama,Emotional,English,2022,102,7.7,80,https://image.tmdb.org/t/p/w500/pn614nnpa4lz9gw7o3p2egsh185.jpg
+384,Shoplifters,Movie,Drama,Emotional,Japanese,2018,121,8.0,100,https://image.tmdb.org/t/p/w500/2vlgh239c2vigsm7ffd1ibky6ja.jpg
+385,There Will Be Blood,Movie,Drama,Emotional,English,2007,158,8.2,92,https://image.tmdb.org/t/p/w500/4u7xmc667ryipcv6lih36q1v5g8.jpg
+386,Bad Education,Movie,Mystery,Intriguing,Spanish,2004,106,7.4,83,https://image.tmdb.org/t/p/w500/jeldwzwsntxn4vq2mz59yo2o1mu.jpg
+387,Schindler's List,Movie,Biography,Inspiring,English,1993,195,9.0,69,https://image.tmdb.org/t/p/w500/2ldl4nslg0um8ii0w8e76ulqnnl.jpg
+388,Magnolia,Movie,Drama,Emotional,English,1999,188,8.0,100,https://image.tmdb.org/t/p/w500/dpwu9a87bkogmj8wqo8rwwt9ayk.jpg
+389,Infernal Affairs,Movie,Crime,Gritty,Cantonese,2002,101,8.0,84,https://image.tmdb.org/t/p/w500/nqx3k4ik3c6b4csd0l0fce6yv6h.jpg
+390,Anbe Sivam,Movie,Drama,Emotional,Tamil,2003,160,8.7,84,https://image.tmdb.org/t/p/w500/2kx8e9rlrl91l6flso5z2kuftyc.jpg
+391,Isle of Dogs,Animation,Animation,Happy,English,2018,101,7.8,89,https://image.tmdb.org/t/p/w500/znvemoou76tzq5tmpr91iar6chf.jpg
+392,Andhadhun,Movie,Thriller,Suspense,Hindi,2018,139,8.2,85,https://image.tmdb.org/t/p/w500/w7p30q2ofal014sxgh7lf03498f.jpg
+393,Eyes Wide Shut,Movie,Mystery,Intriguing,English,1999,159,7.5,68,https://image.tmdb.org/t/p/w500/dj0297s1koo32mvdpth7u5jhe6p.jpg
+394,"Aguirre, the Wrath of God",Movie,Adventure,Exciting,German,1972,93,7.8,84,https://image.tmdb.org/t/p/w500/jl799ykxr34m0ybxibb1fqh1kxw.jpg
+395,The Lives of Others,Movie,Drama,Emotional,German,2006,137,8.4,90,https://image.tmdb.org/t/p/w500/x4hui0v418eqjwo9hzs131pl37c.jpg
+396,Life Is Beautiful,Movie,Comedy,Happy,Italian,1997,116,8.6,95,https://image.tmdb.org/t/p/w500/5w0zm2w4t11mdta5oxmm3ep1a3r.jpg
+397,Independence Day,Movie,Sci-Fi,Exciting,English,1996,145,7.0,89,https://image.tmdb.org/t/p/w500/unh86d7wuaeqv1has0wq49o83fz.jpg
+398,The Big Short,Movie,Biography,Inspiring,English,2015,130,7.8,71,https://image.tmdb.org/t/p/w500/ly4xrd28fvcszo734srs2skydmh.jpg
+399,The Incredibles,Animation,Animation,Happy,English,2004,115,8.0,99,https://image.tmdb.org/t/p/w500/tig31jm73cvsc686smyzyt93vk6.jpg
+400,Everything Everywhere All at Once,Movie,Sci-Fi,Exciting,English,2022,139,7.8,72,https://image.tmdb.org/t/p/w500/uoj0sd2w4v079xs6rxd6gvqr4t4.jpg
+401,Logan,Movie,Action,Intense,English,2017,137,8.1,81,https://image.tmdb.org/t/p/w500/amyrlfqspeery0njftjd3vx6g72.jpg
+402,Incendies,Movie,Drama,Emotional,French,2010,131,8.3,73,https://image.tmdb.org/t/p/w500/nru7e2t35wotmsqlu2umh2rfgro.jpg
+403,Paranorman,Animation,Animation,Happy,English,2012,92,7.0,79,https://image.tmdb.org/t/p/w500/s7il9vthsrppxaonmlr78yyu6wz.jpg
+404,Modern Times,Movie,Comedy,Happy,English,1936,87,8.5,93,https://image.tmdb.org/t/p/w500/d3ttenv21el4u3hbb97xekwpo8d.jpg
+405,The Experiment,Movie,Thriller,Suspense,German,2001,120,7.7,65,https://image.tmdb.org/t/p/w500/arv3voprb8fan2qhe0j3x8xl89k.jpg
+406,The Social Network,Movie,Biography,Inspiring,English,2010,120,7.8,69,https://image.tmdb.org/t/p/w500/4p2kicc0epkopk8jv3ucowq0wb3.jpg
+407,The Exterminating Angel,Movie,Drama,Emotional,Spanish,1962,95,8.0,90,https://image.tmdb.org/t/p/w500/mjdsxnhudju6v0mwgbvyh54qevh.jpg
+408,The Avengers,Movie,Action,Intense,English,2012,143,8.0,91,https://image.tmdb.org/t/p/w500/jqrfoiwrmnsrr9gp0ww52uskvbd.jpg
+409,Hereditary,Movie,Horror,Scary,English,2018,127,7.3,92,https://image.tmdb.org/t/p/w500/t5okc46tamcglb4iiuymqfxmlf8.jpg
+410,The Hidden Fortress,Movie,Adventure,Exciting,Japanese,1958,139,8.1,79,https://image.tmdb.org/t/p/w500/mvvuuekek0kei0b4xnb3nl87ab7.jpg
+411,Mission Impossible,Movie,Action,Intense,English,1996,110,7.2,98,https://image.tmdb.org/t/p/w500/m9mlrwa16jqe2ax1ipzdmby44b9.jpg
+412,Breathless,Movie,Crime,Gritty,French,1960,90,7.7,90,https://image.tmdb.org/t/p/w500/ry6da2907fk2tqd6dq8p1g5kn2n.jpg
+413,Autumn Sonata,Movie,Drama,Emotional,Swedish,1978,99,8.1,66,https://image.tmdb.org/t/p/w500/cprsb5xvrdfgt132ts2sv313gm7.jpg
+414,Wings of Desire,Movie,Drama,Emotional,German,1987,128,8.0,68,https://image.tmdb.org/t/p/w500/t6fowzlvbb1iq05upt6qpm238wb.jpg
+415,Sivaji,Movie,Action,Intense,Tamil,2007,188,7.5,73,https://image.tmdb.org/t/p/w500/35c7cef92d6aukbk2iyb4wx7swe.jpg
+416,Ratatouille,Animation,Animation,Happy,English,2007,111,8.1,70,https://image.tmdb.org/t/p/w500/6kiwofi7tb1kb1o2e0rbflv9jud.jpg
+417,Mersal,Movie,Action,Intense,Tamil,2017,172,7.5,80,https://image.tmdb.org/t/p/w500/diwzflvsg5vh4lprhuq5fp55b8j.jpg
+418,Indian,Movie,Action,Intense,Tamil,1996,183,8.1,96,https://image.tmdb.org/t/p/w500/09wtq9autfa1kd15r2uf0qc9hs9.jpg
+419,Ip Man,Movie,Action,Intense,Cantonese,2008,106,8.0,85,https://image.tmdb.org/t/p/w500/la9nsuuop3tuh3t1z79mu56gqry.jpg
+420,The Matrix,Movie,Sci-Fi,Exciting,English,1999,136,8.7,80,https://image.tmdb.org/t/p/w500/zyh4idbzk8o3z77yjntgdgd8why.jpg
+421,Coraline,Animation,Animation,Happy,English,2009,100,7.7,90,https://image.tmdb.org/t/p/w500/20home5du6lj2828y0e8atukgkn.jpg
+422,2046,Movie,Drama,Emotional,Cantonese,2004,129,7.4,82,https://image.tmdb.org/t/p/w500/8v6bkmh9x8kza5cuo70vdkuzogl.jpg
+423,Up,Animation,Animation,Happy,English,2009,96,8.3,96,https://image.tmdb.org/t/p/w500/q9azrywgbip3hjnjsjvtypsbhya.jpg
+424,Iron Giant,Animation,Animation,Happy,English,1999,86,8.1,87,https://image.tmdb.org/t/p/w500/hxx6kqok32i0x081bvfbm7qflvf.jpg
+425,Gladiator,Movie,Action,Intense,English,2000,155,8.5,87,https://image.tmdb.org/t/p/w500/z1qirflfyb3nyqt43ej94g126ew.jpg
+426,Rashomon,Movie,Crime,Gritty,Japanese,1950,88,8.2,73,https://image.tmdb.org/t/p/w500/x85xxs2dh478k9fi7ben4mo93dw.jpg
+427,The Truman Show,Movie,Comedy,Happy,English,1998,103,8.2,98,https://image.tmdb.org/t/p/w500/2hfwntlmlmogmtet047vt7ewm7o.jpg
+428,Stray Dog,Movie,Crime,Gritty,Japanese,1949,122,7.8,85,https://image.tmdb.org/t/p/w500/d7vs8htpzrc7wv73p50m6ciomow.jpg
+429,House of Flying Daggers,Movie,Action,Intense,Mandarin,2004,119,7.5,78,https://image.tmdb.org/t/p/w500/gr6f6wyg0638omtncq7uwc5h7g5.jpg
+430,The Conformist,Movie,Drama,Emotional,Italian,1970,113,7.9,91,https://image.tmdb.org/t/p/w500/bz3w6x0idr5bqd9y7pnucm3zw22.jpg
+431,Moneyball,Movie,Biography,Inspiring,English,2011,133,7.6,96,https://image.tmdb.org/t/p/w500/941l28kyfx8swc04hwxpraw4exl.jpg
+432,Mon Oncle,Movie,Comedy,Happy,French,1958,110,7.7,72,https://image.tmdb.org/t/p/w500/idi97t6gfdk206hcexm5p1fobgs.jpg
+433,Minari,Movie,Drama,Emotional,English,2020,115,7.4,83,https://image.tmdb.org/t/p/w500/495bak0cglr1bhfbheappkk5l0t.jpg
+434,Cache,Movie,Mystery,Intriguing,French,2005,117,7.3,89,https://image.tmdb.org/t/p/w500/ydcq7s5l3orufjgnghxio8rtnuj.jpg
+435,World on a Wire,Movie,Sci-Fi,Exciting,German,1973,212,7.8,65,https://image.tmdb.org/t/p/w500/33qdc5qzsh7rbvid4f37e162c3g.jpg
+436,Perfect Blue,Animation,Animation,Happy,Japanese,1997,81,8.0,66,https://image.tmdb.org/t/p/w500/d7meneoudllxbk3i9atk3xq0u93.jpg
+437,The Dark Knight Rises,Movie,Action,Intense,English,2012,164,8.4,95,https://image.tmdb.org/t/p/w500/9fnpm27nnsxim704sv8q2zqzgi8.jpg
+438,The Wild Bunch,Movie,Western,Gritty,English,1969,145,7.9,95,https://image.tmdb.org/t/p/w500/pesvxtgwpr9rxke3gx1conx05ce.jpg
+439,Barry Lyndon,Movie,Drama,Emotional,English,1975,185,8.1,85,https://image.tmdb.org/t/p/w500/ij5ycwmjej3vr6j36sow9edvt5e.jpg
+440,Split,Movie,Thriller,Suspense,English,2016,117,7.3,74,https://image.tmdb.org/t/p/w500/6bfibguu5utccqwy8kg4gsi4623.jpg
+441,Raise the Red Lantern,Movie,Drama,Emotional,Mandarin,1991,125,8.1,95,https://image.tmdb.org/t/p/w500/la52xgy6w6n6salwp99n8nzyr8n.jpg
+442,Taxi Driver,Movie,Crime,Gritty,English,1976,114,8.2,76,https://image.tmdb.org/t/p/w500/t4y3kdzyoau7a446r0s9umqg2pj.jpg
+443,Gangs of Wasseypur,Movie,Crime,Gritty,Hindi,2012,321,8.2,66,https://image.tmdb.org/t/p/w500/x7p7jwgj35e06h69tl019rhhgid.jpg
+444,To Live,Movie,Drama,Emotional,Mandarin,1994,132,8.3,76,https://image.tmdb.org/t/p/w500/o5chpig8z2mdzullps8ulacxemi.jpg
+445,Puss in Boots: Last Wish,Animation,Animation,Happy,English,2022,102,7.9,93,https://image.tmdb.org/t/p/w500/c1rk5y5hi80m7ug1cuhci2uarju.jpg
+446,Kiki's Delivery Service,Animation,Animation,Happy,Japanese,1989,103,7.8,91,https://image.tmdb.org/t/p/w500/xkz9dih7nbbmadh8whg9f17khh6.jpg
+447,Polytechnique,Movie,Drama,Emotional,French,2009,77,7.2,84,https://image.tmdb.org/t/p/w500/nwwf5aqzo29nrk8ietsstlyr2k7.jpg
+448,Blue Angel,Movie,Drama,Emotional,German,1930,104,7.7,66,https://image.tmdb.org/t/p/w500/03csezwvbp716hor7xezr07943i.jpg
+449,City Lights,Movie,Comedy,Happy,English,1931,87,8.5,87,https://image.tmdb.org/t/p/w500/4n8eplq26tko0pv12ltu99tc0nw.jpg
+450,The 400 Blows,Movie,Drama,Emotional,French,1959,99,8.1,76,https://image.tmdb.org/t/p/w500/j1gc49yrggxux060bsz21llfwmf.jpg
+451,The Grand Budapest Hotel,Movie,Comedy,Happy,English,2014,99,8.1,83,https://image.tmdb.org/t/p/w500/cagj0mh73b04jeky720jo95dgvy.jpg
+452,Marriage Story,Movie,Drama,Emotional,English,2019,137,7.9,68,https://image.tmdb.org/t/p/w500/1xjjkzwc65rxpb1ds40zx7xj9wm.jpg
+453,Le Samouraï,Movie,Crime,Gritty,French,1967,105,8.0,81,https://image.tmdb.org/t/p/w500/fzstuc72jzfa5azwyv601fa4spa.jpg
+454,Die Hard,Movie,Action,Intense,English,1988,132,8.2,88,https://image.tmdb.org/t/p/w500/oc5ibykgidjkrgb60llggimfkpp.jpg
+455,Paddington 2,Movie,Comedy,Happy,English,2017,103,7.8,65,https://image.tmdb.org/t/p/w500/mzhgp0lsabkh8nq9u00udqqywzr.jpg
+456,Midsommar,Movie,Horror,Scary,English,2019,148,7.1,85,https://image.tmdb.org/t/p/w500/v32dpetw1lppd14963tjloirmpt.jpg
+457,Anniyan,Movie,Action,Intense,Tamil,2005,181,8.3,74,https://image.tmdb.org/t/p/w500/pnjghlwqb3jjmilyt9m3pvi9ml4.jpg
+458,Star Wars: The Empire Strikes Back,Movie,Adventure,Exciting,English,1980,124,8.7,100,https://image.tmdb.org/t/p/w500/8dvnmpieyrwd7ao0gi5am7v1rjd.jpg
+459,Persona,Movie,Drama,Emotional,Swedish,1966,83,8.1,99,https://image.tmdb.org/t/p/w500/qj9rccsoq80wups2kfx9ugiqlfa.jpg
+460,The Godfather,Movie,Crime,Gritty,English,1972,175,9.2,78,https://image.tmdb.org/t/p/w500/hyjgkxelw2bf4aez34ao07azqvz.jpg
+461,Phoenix,Movie,Drama,Emotional,German,2014,98,7.3,94,https://image.tmdb.org/t/p/w500/axc3kqsldtrirl3wxfeu1egoy31.jpg
+462,Monster,Movie,Drama,Emotional,Japanese,2023,126,8.1,77,https://image.tmdb.org/t/p/w500/djzdjyf97ysjxz6yyy91uxw9vjg.jpg
+463,Terminator 2: Judgment Day,Movie,Action,Intense,English,1991,137,8.6,96,https://image.tmdb.org/t/p/w500/lybtta4xiq94nhtiet04xnw1lw7.jpg
+464,Weekend,Movie,Comedy,Happy,French,1967,105,7.1,93,https://image.tmdb.org/t/p/w500/5wit784p708hv3twd7nv8lu3wfb.jpg
+465,1917,Movie,War,Epic,English,2019,119,8.2,88,https://image.tmdb.org/t/p/w500/1n8bj49sbkae1ru0m6m05lqjii9.jpg
+466,Dances with Wolves,Movie,Adventure,Exciting,English,1990,181,8.0,85,https://image.tmdb.org/t/p/w500/5qkuq0522f49rgxk64h7q2gr5m0.jpg
+467,Gravity,Movie,Sci-Fi,Exciting,English,2013,91,7.7,90,https://image.tmdb.org/t/p/w500/pnn4c14rrc3wwd4lip57o4g8vwd.jpg
+468,Nights of Cabiria,Movie,Drama,Emotional,Italian,1957,110,8.1,65,https://image.tmdb.org/t/p/w500/7jewke98xwvmzhp5knx7jlysqit.jpg
+469,Nope,Movie,Sci-Fi,Exciting,English,2022,130,6.8,91,https://image.tmdb.org/t/p/w500/7wkqk5s0y15b8f1efs7ivkl2s3y.jpg
+470,Los Olvidados,Movie,Crime,Gritty,Spanish,1950,80,8.2,68,https://image.tmdb.org/t/p/w500/sgsw35y3ssqvggi2bbuwhxnikuc.jpg
+471,Y Tu Mamá También,Movie,Drama,Emotional,Spanish,2001,106,7.7,66,https://image.tmdb.org/t/p/w500/2ljfd5toppjif4gh0xgk85om3y3.jpg
+472,The Last Emperor,Movie,Biography,Inspiring,English,1987,163,7.7,76,https://image.tmdb.org/t/p/w500/le85gfpqmdevsmu33q3ls8u8b19.jpg
+473,I Saw the Devil,Movie,Action,Intense,Korean,2010,144,7.8,95,https://image.tmdb.org/t/p/w500/76rekn0w9dsrinc7bahbuqp6xxd.jpg
+474,Good Will Hunting,Movie,Drama,Emotional,English,1997,126,8.3,79,https://image.tmdb.org/t/p/w500/r4ajbc53n3wvlcfw4vch1bifd6n.jpg
+475,Tokyo Godfathers,Animation,Animation,Happy,Japanese,2003,92,7.8,93,https://image.tmdb.org/t/p/w500/1ogvgta4nm58y7qowa5elkdr326.jpg
+476,Kung Fu Hustle,Movie,Action,Intense,Cantonese,2004,99,7.7,75,https://image.tmdb.org/t/p/w500/30i0hax0fs3pu1qbpcumode51sw.jpg
+477,Star Wars: A New Hope,Movie,Adventure,Exciting,English,1977,121,8.6,100,https://image.tmdb.org/t/p/w500/bf4s7rdupo98r4lwhe7dvcmqmaf.jpg
+478,Wind Rises,Animation,Animation,Happy,Japanese,2013,126,7.7,86,https://image.tmdb.org/t/p/w500/ncsbde9e358p4fn4r6udv2rjybi.jpg
+479,Quiet Place,Movie,Horror,Scary,English,2018,90,7.5,93,https://image.tmdb.org/t/p/w500/g3lh82hs9fr4a5sxcdd7pgbnsyb.jpg
+480,John Wick 3,Movie,Action,Intense,English,2019,131,7.4,75,https://image.tmdb.org/t/p/w500/yhez19ec1f8gfwg6kwkmeflblqk.jpg
+481,The Green Mile,Movie,Drama,Emotional,English,1999,189,8.6,87,https://image.tmdb.org/t/p/w500/g81w0s3wa4vrh8q8z13nkuq26xc.jpg
+482,Moana,Animation,Animation,Happy,English,2016,107,7.6,85,https://image.tmdb.org/t/p/w500/a3fdrwgnio8jlcyx2mgn8b26zgf.jpg
+483,Reservoir Dogs,Movie,Crime,Gritty,English,1992,99,8.3,97,https://image.tmdb.org/t/p/w500/0y07obln88aaytdrz2e2bclro1i.jpg
+484,The Seventh Seal,Movie,Fantasy,Magical,Swedish,1957,96,8.1,92,https://image.tmdb.org/t/p/w500/zfmnpfdxppflg44ga130s48y3lv.jpg
+485,The Fountain,Movie,Sci-Fi,Exciting,English,2006,96,7.2,69,https://image.tmdb.org/t/p/w500/3nutl15vfund1nn1doxgdiu774j.jpg
+486,8 1/2,Movie,Drama,Emotional,Italian,1963,138,8.0,76,https://image.tmdb.org/t/p/w500/ci3er0tu15v49jkawm7g6rqb0as.jpg
+487,Kubo and the Two Strings,Animation,Animation,Happy,English,2016,101,7.8,95,https://image.tmdb.org/t/p/w500/2bskudecy5895g8s4rhj09n19je.jpg
+488,Tumbbad,Movie,Horror,Scary,Hindi,2018,104,8.2,86,https://image.tmdb.org/t/p/w500/blgxirkrmyekjynw6d9o2fuxa6x.jpg
+489,Master,Movie,Action,Intense,Tamil,2021,179,7.3,80,https://image.tmdb.org/t/p/w500/9d2w1cyqhxut1anp0eq10hwzpsd.jpg
+490,Shrek 2,Animation,Animation,Happy,English,2004,93,7.3,82,https://image.tmdb.org/t/p/w500/dg2rrhn2u4jijrh4no8fql93jor.jpg
+491,Transit,Movie,Drama,Emotional,German,2018,101,7.0,85,https://image.tmdb.org/t/p/w500/i80me8skmimtm8ybn52jpk0i6gn.jpg
+492,Sholay,Movie,Action,Intense,Hindi,1975,204,8.1,93,https://image.tmdb.org/t/p/w500/qp2b6i58sw1ofk3pf7xm2kviptt.jpg
+493,Tangled,Animation,Animation,Happy,English,2010,100,7.7,98,https://image.tmdb.org/t/p/w500/lt6eht3c8gf1pni8lztlwuymbtw.jpg
+494,Extraction,Movie,Action,Intense,English,2020,116,6.8,69,https://image.tmdb.org/t/p/w500/nh6lq5mxfwj6jya27l81xlvvn5w.jpg
+495,The Lord of the Rings: Fellowship,Movie,Fantasy,Magical,English,2001,178,8.8,71,https://image.tmdb.org/t/p/w500/k8uhisrrg3afhf5m5xemj7vrwko.jpg
+496,The Wailing,Movie,Horror,Scary,Korean,2016,156,7.4,69,https://image.tmdb.org/t/p/w500/il7gzemtsx7jdivxv61rnl68agp.jpg
+497,Jurassic Park,Movie,Adventure,Exciting,English,1993,127,8.2,91,https://image.tmdb.org/t/p/w500/a205kd1h3137i0al6bzo69be82u.jpg
+498,Olympia,Movie,Documentary,Exciting,German,1938,226,7.8,76,https://image.tmdb.org/t/p/w500/d3br321levv54i8wnif6xul3mhg.jpg
+499,"Crouching Tiger, Hidden Dragon",Movie,Action,Intense,Mandarin,2000,120,7.9,75,https://image.tmdb.org/t/p/w500/ofpebo285zxspzpf8nwfdsn2o7u.jpg
+500,Pain and Glory,Movie,Drama,Emotional,Spanish,2019,113,7.5,83,https://image.tmdb.org/t/p/w500/ymiqmh8xq024viskgsivzw0ktxp.jpg

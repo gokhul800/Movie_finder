@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MovieFinder 🎬 – Find the Perfect Movie Instantly</title>
+  <meta name="description"
+    content="Discover the best movies instantly using smart AI-powered recommendations. Filter by genre, language, and more." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+
+<body>
+
+  <!-- ====== HEADER ====== -->
+  <header>
+    <div class="logo">
+      <span class="logo-icon">🎬</span>
+      <div>
+        <h1>MovieFinder</h1>
+        <p class="logo-subtitle">Find the perfect movie instantly</p>
+      </div>
+    </div>
+
+  </header>
+
+  <!-- ====== MAIN ====== -->
+  <main>
+
+    <!-- ====== FILTER PANEL ====== -->
+    <section class="filter-panel" aria-label="Movie filters">
+      <p class="filter-title">Filter movies</p>
+
+      <div class="filters-grid">
+
+        <!-- Genre -->
+        <div class="filter-group">
+          <label for="filter-genre">Genre</label>
+          <select id="filter-genre">
+            <option value="">All Genres</option>
+            <!-- Populated dynamically from /filters -->
+          </select>
+        </div>
+
+        <!-- Language -->
+        <div class="filter-group">
+          <label for="filter-language">Language</label>
+          <select id="filter-language">
+            <option value="">All Languages</option>
+            <!-- Populated dynamically from /filters -->
+          </select>
+        </div>
+
+        <!-- Year Range -->
+        <div class="filter-group">
+          <label>Year Range</label>
+          <div class="year-range">
+            <input type="number" id="filter-year-start" placeholder="From" min="1900" max="2030" value="1980" />
+            <input type="number" id="filter-year-end" placeholder="To" min="1900" max="2030" value="2024" />
+          </div>
+        </div>
+
+        <!-- Actions -->
+        <div class="filter-actions">
+          <button id="btn-surprise" class="btn-surprise" title="Randomly pick a high-rated movie">
+            🎲 Surprise Me
+          </button>
+          <button id="btn-recommend" class="btn-primary">
+            <svg width="16" height="16" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5"
+              stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="11" cy="11" r="8" />
+              <line x1="21" y1="21" x2="16.65" y2="16.65" />
+            </svg>
+            Recommend Movies
+          </button>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ====== STATUS BAR ====== -->
+    <div id="status-bar" aria-live="polite"></div>
+
+    <!-- ====== RESULTS SECTION ====== -->
+    <section id="results-section" aria-label="Movie recommendations"></section>
+
+  </main>
+
+  <script src="/static/script.js"></script>
+</body>
+
+</html>
